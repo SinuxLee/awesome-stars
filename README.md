@@ -344,7 +344,7 @@
 - [cocos/cocomat](https://github.com/cocos/cocomat) - 
 - [zhichao281/duilib-MiniBlinkBrowser](https://github.com/zhichao281/duilib-MiniBlinkBrowser) - 用duilib做的miniblink的浏览器
 - [frimin/learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) - KCP协议基本数据结构和算法图文介绍
-- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [alexanderchuranov/Metaresc](https://github.com/alexanderchuranov/Metaresc) - META data and RESource library for  C language
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -1151,7 +1151,7 @@
 ## C# # 
 
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
-- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance suc
+- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS c
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 - [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter) - Make your games and apps run on the right CPU cores - for smoother performance on AMD Dual-CCD and Intel Hybrid processors.
@@ -2551,7 +2551,7 @@
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3817 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3822 LeetCode Problems (Weekly Update)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
@@ -2846,7 +2846,7 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.65299, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65560, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -2868,6 +2868,7 @@
 
 ## CSS 
 
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [aculix/bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
@@ -3796,7 +3797,7 @@
 - [containers/storage](https://github.com/containers/storage) - Container Storage Library
 - [hanchuanchuan/goInception](https://github.com/hanchuanchuan/goInception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an open-source engine for autonomous agents — event-driven, proactive, and self-scheduling.
 - [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) - GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
@@ -4168,7 +4169,7 @@
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -4665,7 +4666,7 @@
 - [braintree/manners](https://github.com/braintree/manners) - A polite Go HTTP server that shuts down gracefully.
 - [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [ying32/rproxy](https://github.com/ying32/rproxy) - 简单的反向代理用于内网穿透，支持HTTP/HTTPS转发
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -4849,7 +4850,7 @@
 - [narenaryan/go-mysql-rest-api](https://github.com/narenaryan/go-mysql-rest-api) - A guide for creating RESTful API with Golang, MySQL and Gin.
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [gorilla/handlers](https://github.com/gorilla/handlers) - Package gorilla/handlers is a collection of useful middleware for Go HTTP services & web applications 🛃
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [topfreegames/apm](https://github.com/topfreegames/apm) - APM is a process manager for Golang applications.
@@ -4888,7 +4889,7 @@
 - [aviddiviner/gin-limit](https://github.com/aviddiviner/gin-limit) - Gin middleware to limit simultaneous requests.
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [didip/tollbooth](https://github.com/didip/tollbooth) - Simple middleware to rate-limit HTTP requests.
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) - a generic object pool for golang
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
@@ -5249,7 +5250,7 @@
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [jonhoo/drwmutex](https://github.com/jonhoo/drwmutex) - Distributed RWMutex in Go
@@ -5692,7 +5693,6 @@
 - [scratchfoundation/scratch-editor](https://github.com/scratchfoundation/scratch-editor) - Scratch editor mono-repo
 - [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -5839,7 +5839,6 @@
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [siteserver/cms](https://github.com/siteserver/cms) - SS CMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -7319,6 +7318,7 @@
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [gocn/knowledge](https://github.com/gocn/knowledge) - Go社区的知识图谱，Knowledge Graph
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [52fhy/shell-book](https://github.com/52fhy/shell-book) - ❤️Shell Scripting Tutorial Series: Master Shell Programming with 6 Easy Lessons. Shell脚本学习系列教程：6小节内容轻松掌握shell编程。
@@ -7856,7 +7856,7 @@
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [bitsofinfo/files-to-consul-kv](https://github.com/bitsofinfo/files-to-consul-kv) - Simple script to push a filesystem of of consul kv files to consul via the transaction api
@@ -8998,7 +8998,7 @@
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
@@ -9616,7 +9616,7 @@
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [basarat/typescript-collections](https://github.com/basarat/typescript-collections) - A generically typed set of collections for use with TypeScript
 - [endel/memshared](https://github.com/endel/memshared) - Redis-like in-memory database for NodeJS clustered applications
-- [colyseus/colyseus.js](https://github.com/colyseus/colyseus.js) - ⚔ Colyseus Multiplayer SDK for JavaScript/TypeScript
+- [colyseus/colyseus.js](https://github.com/colyseus/colyseus.js) - MOVED TO MONOREPO: https://github.com/colyseus/colyseus/tree/master/packages/sdk
 - [foxifyjs/foxify](https://github.com/foxifyjs/foxify) - The fast, easy to use & typescript ready web framework for Node.js
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
