@@ -152,7 +152,6 @@
 - [stclib/STC](https://github.com/stclib/STC) - A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers.
 - [hajimehoshi/hitsumabushi](https://github.com/hajimehoshi/hitsumabushi) - Run Go programs (almost) everywhere
 - [lieff/minimp3](https://github.com/lieff/minimp3) - Minimalistic MP3 decoder single header library
-- [troydhanson/network](https://github.com/troydhanson/network) - 
 - [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
@@ -172,7 +171,6 @@
 - [Snapchat/ModJS](https://github.com/Snapchat/ModJS) - A Javascript Module for KeyDB and Redis
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [microsoft/DTrace-on-Windows](https://github.com/microsoft/DTrace-on-Windows) - Code for the cross platform, single source, OpenDTrace implementation
-- [pmem/pmdk](https://github.com/pmem/pmdk) - Persistent Memory Development Kit
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [Anita-Mul/Libuv-Analyse](https://github.com/Anita-Mul/Libuv-Analyse) - 【Libuv 源码解析】
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
@@ -273,7 +271,6 @@
 - [embeddedartistry/libc](https://github.com/embeddedartistry/libc) - libc targeted for embedded systems usage.  Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
-- [LHRchina/redis](https://github.com/LHRchina/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 - [pangweiwei/slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
 - [raptorjit/raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
@@ -354,7 +351,6 @@
 - [Meituan-Dianping/SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) - 输入SQL，输出索引优化建议
 - [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
 - [mah0x211/lua-url](https://github.com/mah0x211/lua-url) - url string utility
-- [ylme/lua-game_rank](https://github.com/ylme/lua-game_rank) - use lua to implement rank for game
 - [iqiyi/xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
 - [lsg2020/luaprofile](https://github.com/lsg2020/luaprofile) - lua profile
@@ -463,7 +459,6 @@
 - [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
 - [xinmingyao/resty-skynet-rpc](https://github.com/xinmingyao/resty-skynet-rpc) - a rpc for openresty to skynet cluster
 - [sosojustdo/tengine_waf](https://github.com/sosojustdo/tengine_waf) - Tengine_waf, 带WAF防火墙功能的tengine系统，具备防止web攻击和cc攻击的功能，小巧灵便，简单可依赖
-- [cloudwu/ejoy3d](https://github.com/cloudwu/ejoy3d) - Just a toy
 - [viticm/skynet-simple](https://github.com/viticm/skynet-simple) - A skynet simple project.
 - [cloudwu/lua-serialize](https://github.com/cloudwu/lua-serialize) - Serialize lua objects into a binary block
 - [askyrme/luaproc](https://github.com/askyrme/luaproc) - luaproc is a concurrent programming library for Lua
@@ -473,7 +468,6 @@
 - [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Alibaba Tair, Redpanda, YDB and StarRocks
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
-- [protocolbuffers/upb](https://github.com/protocolbuffers/upb) - a small protobuf implementation in C
 - [jintiao/some-mmorpg](https://github.com/jintiao/some-mmorpg) - 
 - [protobuf-c/protobuf-c-rpc](https://github.com/protobuf-c/protobuf-c-rpc) - Protocol Buffers C RPC implementation
 - [wasmerio/kernel-wasm](https://github.com/wasmerio/kernel-wasm) - Sandboxed kernel mode WebAssembly runtime.
@@ -651,7 +645,6 @@
 - [virtuozzo/httpress](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility
 - [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
-- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [openresty/luajit2](https://github.com/openresty/luajit2) - OpenResty's Branch of LuaJIT 2
 - [xiaokai-wang/nginx-upconf-module](https://github.com/xiaokai-wang/nginx-upconf-module) - module provides an HTTP interface for adding, removing, and modifying back-end servers dynamically and without having to reload the configuration
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
@@ -818,7 +811,6 @@
 - [wangbojing/NtyTcp](https://github.com/wangbojing/NtyTcp) - 单线程用户态TCP/IP协议栈，epoll实现，包含服务器案例，并发测试案例
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime
 - [uriparser/uriparser](https://github.com/uriparser/uriparser) - :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C99; moved from SourceForge to GitHub
-- [bbcarchdev/liburi](https://github.com/bbcarchdev/liburi) - A URI (and IRI) parser with a straightforward API, based upon uriparser
 - [luohaha/libel](https://github.com/luohaha/libel) - An event-driven library.
 - [naasking/async.h](https://github.com/naasking/async.h) - Stackless Async Subroutines for C
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
@@ -1451,7 +1443,7 @@
 - [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 - [roubincode/ETCore](https://github.com/roubincode/ETCore) - 包含C#游戏框架ETServer的服务器、客户端独立版本，基于泰课在线维护的ETCore（不包含热更新模块）。ETServer&Client base on ET.Core by taikr.com
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-- [pigLoveRabbit520/WinWnmp](https://github.com/pigLoveRabbit520/WinWnmp) - A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））
+- [rabbitLove520/WinWnmp](https://github.com/rabbitLove520/WinWnmp) - A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 - [qingfeng346/Scorpio-CSharp](https://github.com/qingfeng346/Scorpio-CSharp) - Unity游戏热更新脚本
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
@@ -2848,7 +2840,7 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65560, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65655, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -3289,7 +3281,6 @@
 - [babyname/fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [rpcxio/libkv](https://github.com/rpcxio/libkv) - Distributed key/value store abstraction library
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [ECNU/open-geoip](https://github.com/ECNU/open-geoip) - Open-GeoIP: A simple and high-performance IP address geolocation query service
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [snowyyj001/loumiao](https://github.com/snowyyj001/loumiao) - go game  framework
@@ -5061,7 +5052,7 @@
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -5248,7 +5239,6 @@
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [xo/dbtpl](https://github.com/xo/dbtpl) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -7325,7 +7315,7 @@
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [gocn/knowledge](https://github.com/gocn/knowledge) - Go社区的知识图谱，Knowledge Graph
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [52fhy/shell-book](https://github.com/52fhy/shell-book) - ❤️Shell Scripting Tutorial Series: Master Shell Programming with 6 Easy Lessons. Shell脚本学习系列教程：6小节内容轻松掌握shell编程。
@@ -7857,7 +7847,7 @@
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / QQ频道 e.g. Integ
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated w
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [NeymarL/ChineseChess-AlphaZero](https://github.com/NeymarL/ChineseChess-AlphaZero) - Implement AlphaZero/AlphaGo Zero methods on Chinese chess.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -7977,7 +7967,6 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [china-testing/python_cn_resouce](https://github.com/china-testing/python_cn_resouce) - python书籍免费下载；python库参考；Django、Flask、FastAPI资源大全、DevOps资源大全、python测试库资源大全。公众号：pythontesting
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -8052,7 +8041,7 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -8343,6 +8332,7 @@
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
@@ -8708,7 +8698,7 @@
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
@@ -9029,6 +9019,7 @@
 - [netless-io/flat-server](https://github.com/netless-io/flat-server) - A Node.js server for the Agora Flat open source classroom.
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
 - [js-sdsl/js-sdsl](https://github.com/js-sdsl/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
