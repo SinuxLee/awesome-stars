@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [C3](#c3)
 - [CMake](#cmake)
 - [CSS](#css)
 - [Cuda](#cuda)
@@ -29,6 +30,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
+- [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -207,7 +209,6 @@
 - [cloudfreexiao/skynet](https://github.com/cloudfreexiao/skynet) - A lightweight online game framework
 - [lunarmodules/luasec](https://github.com/lunarmodules/luasec) - LuaSec
 - [dpull/lua-webclient](https://github.com/dpull/lua-webclient) - Nonblocking lua http library.
-- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [JieTrancender/skynet-etcd](https://github.com/JieTrancender/skynet-etcd) - This is an etcd lib for skynet, depth reference lua-resty-etcd(https://github.com/api7/lua-resty-etcd)
 - [huahua132/skynet_fly](https://github.com/huahua132/skynet_fly) - 基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新
@@ -2733,6 +2734,7 @@
 - [twitter-forks/mysql](https://github.com/twitter-forks/mysql) - MySQL fork maintained and used at Twitter
 - [lotusnowshen/muduo_with_comments](https://github.com/lotusnowshen/muduo_with_comments) - muduo v1.0.4的注释版
 - [PikaLabs/pink](https://github.com/PikaLabs/pink) - A high performance network library
+- [OpenAtomFoundation/pikiwidb](https://github.com/OpenAtomFoundation/pikiwidb) - Pikiwidb is a Redis-Compatible database developed by Qihoo's infrastructure team.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
@@ -2844,6 +2846,10 @@
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 
+## C3 
+
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
+
 ## CMake 
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -2854,6 +2860,7 @@
 ## CSS 
 
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [aculix/bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
@@ -3711,6 +3718,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+- [OpenAtomFoundation/SmartIDE](https://github.com/OpenAtomFoundation/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [Michal-Leszczynski/btree](https://github.com/Michal-Leszczynski/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
 - [xuesongbj/Go-Notes](https://github.com/xuesongbj/Go-Notes) - 🚀 Go学习笔记 📖
@@ -5218,7 +5226,6 @@
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [xo/dbtpl](https://github.com/xo/dbtpl) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -5242,6 +5249,7 @@
 ## HTML 
 
 - [cloudfreexiao/pluto](https://github.com/cloudfreexiao/pluto) - skynet 以 CMake 方式组织工程的跨平台的实现.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
@@ -5678,7 +5686,6 @@
 - [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
 - [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 - [robatron/sudoku.js](https://github.com/robatron/sudoku.js) - A Sudoku puzzle generator and solver JavaScript library
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
@@ -6842,6 +6849,10 @@
 - [EmmyLua/IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua) - Lua IDE/Debugger Plugin for IntelliJ IDEA
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
+## Less 
+
+- [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
+
 ## Lua 
 
 - [findstr/silly](https://github.com/findstr/silly) - A lightweight coroutine-based Lua network framework. TCP, TLS, WebSocket, gRPC, Redis, MySQL, Crypto, Prometheus, etcd v3, gzip, snappy, lz4.
@@ -7364,7 +7375,6 @@
 - [Go1c/AboutGameEngineGraphics](https://github.com/Go1c/AboutGameEngineGraphics) - 主要是个人收集的一些游戏相关的渲染知识和白嫖圣地
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [ryanjon2040/UE4-Map-Editor](https://github.com/ryanjon2040/UE4-Map-Editor) - Map Editor template for your game.
-- [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [singgel/Study-Floder](https://github.com/singgel/Study-Floder) - 相当不错的图书，例如《数学之美》《提问的智慧》《软件工程可靠性》《时间简史》《毛泽东选集【全四卷】》《浪潮之巅》《金字塔原理》《TCP/IP卷一/卷二/卷三》《[荐]深入浅出设计模式》等；一些大的上传受限制的文件《图解TCP_IP_第5版》等在README
 - [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
 - [gauseen/faster-hosts](https://github.com/gauseen/faster-hosts) - 
@@ -7493,6 +7503,7 @@
 - [Leo501/awesome-CocosCreator](https://github.com/Leo501/awesome-CocosCreator) - Cocos Creator 游戏资源合集
 - [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
 - [wantnon/EffectNodes-for-cocos2dx](https://github.com/wantnon/EffectNodes-for-cocos2dx) - special effects collection for cocos2dx
+- [OpenAtomFoundation/TobudOS](https://github.com/OpenAtomFoundation/TobudOS) - 开放原子开源基金会孵化的物联网操作系统，捐赠前为腾讯物联网终端操作系统TencentOS Tiny
 - [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
 - [cmangos/mangos-svn](https://github.com/cmangos/mangos-svn) - All commits (excluding tags/ and branches/) from the old svn are here, feel free to browse through!
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -7707,7 +7718,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool) - Linux CLI tool providing real-time system resource monitoring
@@ -8137,6 +8148,7 @@
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [liujin1992112/develop-tools](https://github.com/liujin1992112/develop-tools) - 
 - [gabrys/svn2github](https://github.com/gabrys/svn2github) - Mirror your SVN repositories to GitHub
+- [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [NoMore201/googleplay-api](https://github.com/NoMore201/googleplay-api) - Google Play Unofficial Python API
 - [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
 - [yhy0/github-cve-monitor](https://github.com/yhy0/github-cve-monitor) - 实时监控github上新增的cve、自定义关键字、安全工具更新、大佬仓库监控，并多渠道推送通知
@@ -8301,6 +8313,7 @@
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
@@ -9604,7 +9617,6 @@
 
 ## Vue 
 
-- [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
