@@ -3689,7 +3689,7 @@
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [qufei1993/Nodejs-Roadmap](https://github.com/qufei1993/Nodejs-Roadmap) - 【Nodejs-Roadmap】侧重于 Node.js 服务端的开发指南，公众号 “Nodejs技术栈”
@@ -3923,7 +3923,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) - mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [zeromake/docker-debug](https://github.com/zeromake/docker-debug) - use new container attach on already container go on debug
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -7707,7 +7707,7 @@
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -9456,7 +9456,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -9845,7 +9845,7 @@
 - [alexfru/SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -9996,7 +9996,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [silence717/taro-designer](https://github.com/silence717/taro-designer) - 基于React开发可视化拖拽，页面搭建，使用tarojs自带组件库，生成源码生成。主要取tarojs组件库支持的 H5和微信小程序的交集进行属性编辑。
@@ -13666,7 +13666,7 @@
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
 - [SonarQubeCommunity/sonar-lua](https://github.com/SonarQubeCommunity/sonar-lua) - 
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
 - [ylmbtm/PokerCraker](https://github.com/ylmbtm/PokerCraker) - 斗地主残局破解， 速度快，效率高
 - [gauseen/faster-hosts](https://github.com/gauseen/faster-hosts) - 
@@ -15815,7 +15815,7 @@
 - [servicemesher/istio-official-translation](https://github.com/servicemesher/istio-official-translation) - Istio官网中文本地化
 - [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
-- [bminor/glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository. Updated daily.
+- [bminor/glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository.
 - [khizmax/libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
 - [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022
@@ -16298,7 +16298,7 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
@@ -17968,7 +17968,7 @@
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) - 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
