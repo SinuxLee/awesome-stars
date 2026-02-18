@@ -237,7 +237,6 @@
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - Enjoy games with your friends as if you were on a LAN.
 - [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
-- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [baidu/dperf](https://github.com/baidu/dperf) - dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [NJU-ProjectN/nemu](https://github.com/NJU-ProjectN/nemu) - NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
@@ -2391,7 +2390,7 @@
 - [mrange/CppStreams](https://github.com/mrange/CppStreams) - CppStreams is a data pipeline library for C++
 - [ioriiod0/orchid](https://github.com/ioriiod0/orchid) - 
 - [3rdparty/stout](https://github.com/3rdparty/stout) - A C++ library for building sturdy software.
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [Tencent/sluaunreal](https://github.com/Tencent/sluaunreal) - lua dev plugin for unreal engine 4 or 5
 - [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 - [goossaert/hashmap](https://github.com/goossaert/hashmap) - Various open addressing hashmap algorithms in C++
@@ -9640,6 +9639,7 @@
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 - [lsg2020/swt](https://github.com/lsg2020/swt) - skynet 火焰图 flamegraph + debug 线上实时调试
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
 - [tangram-js/json-schema-editor](https://github.com/tangram-js/json-schema-editor) - JSON Schema Editor is an intuitive editor for JSON schema. It provides a tree view to present the structure of schema, and a property inspector to edit the properties of schema element. Develop with V
