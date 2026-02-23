@@ -5696,7 +5696,7 @@
 - [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) - Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 - [SimonAKing/HomePage](https://github.com/SimonAKing/HomePage) - A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions
 - [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -6497,7 +6497,6 @@
 - [pomelonode/pomelo-protobuf](https://github.com/pomelonode/pomelo-protobuf) - pomelo-protobuf
 - [pomelonode/pomelo-jsclient-socket.io](https://github.com/pomelonode/pomelo-jsclient-socket.io) - 
 - [goodiboy/catchFish](https://github.com/goodiboy/catchFish) - cocos creator 2.3.2开发捕鱼小游戏
-- [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [eeg1412/wikimoeCardByNodeJS](https://github.com/eeg1412/wikimoeCardByNodeJS) - 一款由玩家自由DIY卡牌的卡牌收集游戏！
 - [JeCat/games-icell](https://github.com/JeCat/games-icell) - 《我，细胞》一个以微生物环境为故事背景的物理解密+自由塔防游戏
@@ -8877,7 +8876,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
 - [DaxianLee/cocos-mcp-server](https://github.com/DaxianLee/cocos-mcp-server) - 一款全面的、便捷的cocos creator AI MCP服务插件，适用于3.8.0以上cocos版本，一键安装，一键启动。A comprehensive and convenient cocos creator AI MCP service plug-in, suitable for cocos versions above 3.8.0, one-click installation and o
-- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - Javascript Data Structure & TypeScript Data Structure. Heap, Binary Tree, Red Black Tree, Linked List, Deque, Trie, HashMap, Directed Graph, Undirected Graph, Binary Search Tree, AVL Tree, Priority Qu
+- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - Javascript & TypeScript Data Structure
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
@@ -9458,6 +9457,7 @@
 - [KuoKuo666/CocosCreator-Bubble](https://github.com/KuoKuo666/CocosCreator-Bubble) - 基于CocosCreator引擎2.1.2版本制作的《泡泡龙》游戏项目，注释很全新手无压力。
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [zhitaocai/CocosCreator-Multi-resolution-Adapter](https://github.com/zhitaocai/CocosCreator-Multi-resolution-Adapter) - Cocos Creator 多分辨率适配方案
 - [xiaocongcc/GameFramework](https://github.com/xiaocongcc/GameFramework) - a game client framework for cocoscreator
