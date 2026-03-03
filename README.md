@@ -244,6 +244,7 @@
 - [BeneficialCode/Game-Cheating-Tutorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial) - 热门网络游戏辅助开发教程
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）
 - [gaodayihao/QSanguosha](https://github.com/gaodayihao/QSanguosha) - An open source online version of the famous board game Sanguosha
+- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [frog-game/lua-5.4.4-comments](https://github.com/frog-game/lua-5.4.4-comments) - lua-5.4.4-每行都加注释版本
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -1723,7 +1724,6 @@
 - [Mogara/QSanguosha](https://github.com/Mogara/QSanguosha) - An open source online version of the famous board game Sanguosha
 - [delorenj/b2Separator-cpp](https://github.com/delorenj/b2Separator-cpp) - Create non-convex, complex shapes with Box2D. Ported from Antoan Angelov's b2Separator class.
 - [erincatto/box2d-lite](https://github.com/erincatto/box2d-lite) - A small 2D physics engine
-- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [markaren/threepp](https://github.com/markaren/threepp) - C++20 port of three.js (r129)
 - [louis-langholtz/PlayRho](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.
 - [gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons) - Cross Platform File Dialog for Dear-ImGui
@@ -3091,7 +3091,7 @@
 - [jonboulle/clockwork](https://github.com/jonboulle/clockwork) - a fake clock for golang
 - [shenwei356/csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 - [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 - [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) - Implements a Caddy storage backend module for Redis supporting Single (Standalone), Cluster, or Sentinal (Failover) Redis server configurations.
@@ -5535,7 +5535,7 @@
 - [nblookup/HiJson](https://github.com/nblookup/HiJson) - Exported from https://code.google.com/p/json-view/
 - [dream-num/LuckysheetServer](https://github.com/dream-num/LuckysheetServer) - Luckysheet java backend
 - [wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android) - :earth_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
-- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如网关，socket服务端与客户端，自定义高效消息编解码，游戏热更新，游戏通用工具等等。包含游戏服，跨服，匹配服，后台管理系统等实现，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
+- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，游戏热更新，配置表自动化仓库，游戏通用工具等等。包含游戏服，跨服，匹配服，后台管理系统等实现，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
 - [brianfrankcooper/YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [chenshuo/muduo-protorpc](https://github.com/chenshuo/muduo-protorpc) - Google Protobuf RPC based on Muduo
 - [SwingFrog/Summer](https://github.com/SwingFrog/Summer) - 这是一个轻量级的、一站式的java游戏服务器框架，也可用于开发简单的web服务。基于netty实现了高性能通讯，支持tcp、http、websocket等协议，支持protobuf、json两种数据格式，支持以配置的形式轻松开启多端口网络服务。支持RPC远程调用，支持以优雅的方式实现远程调用，支持调用超时重试、幂等调用。封装了持久化层，提供数据访问和数据落地接口，支持异步新增、保存、删除数据，支持
@@ -6105,7 +6105,7 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [YKPublicGame/ball](https://github.com/YKPublicGame/ball) - 球球大作战，前端分h5、u3d版，后端skynet
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
-- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 - [zk-luke/xlsx2json](https://github.com/zk-luke/xlsx2json) - convert excel to json ,support object/array/number/bool data type.
 - [Explv/Explv.github.io](https://github.com/Explv/Explv.github.io) - Explv's Map
 - [ElementUI/element-starter](https://github.com/ElementUI/element-starter) - A starter kit for Element UI generated by vue-cli
@@ -6405,7 +6405,6 @@
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-- [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [tidys/cc-plugin-train](https://github.com/tidys/cc-plugin-train) - cocos creator 插件开发系列教程配置代码
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
@@ -6818,7 +6817,7 @@
 
 ## Kotlin 
 
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [Ackites/Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
@@ -7739,7 +7738,7 @@
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
 - [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~400 lines) event loop for Python.
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
@@ -8123,7 +8122,7 @@
 - [LeoHsiao1/Notes](https://github.com/LeoHsiao1/Notes) - 个人笔记，关于 IT 知识
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [vinjn/perf-doctor](https://github.com/vinjn/perf-doctor) - 性能医生, a mobile game profiler.
@@ -8868,6 +8867,7 @@
 
 ## TypeScript 
 
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [setube/taoyuan](https://github.com/setube/taoyuan) - 桃源乡: 一款文字版田园模拟经营游戏，灵感来自星露谷物语，采用像素 + 中国风视觉设计。
@@ -8893,7 +8893,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
 - [DaxianLee/cocos-mcp-server](https://github.com/DaxianLee/cocos-mcp-server) - 一款全面的、便捷的cocos creator AI MCP服务插件，适用于3.8.0以上cocos版本，一键安装，一键启动。A comprehensive and convenient cocos creator AI MCP service plug-in, suitable for cocos versions above 3.8.0, one-click installation and o
-- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - Javascript & TypeScript Data Structure
+- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
@@ -9018,7 +9018,7 @@
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [js-sdsl/js-sdsl](https://github.com/js-sdsl/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
 - [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react) - 🎮 3D Tetris game「俄罗斯方块」
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -9431,6 +9431,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 - [brick-design/brick-design](https://github.com/brick-design/brick-design) - 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
+- [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
