@@ -2544,7 +2544,7 @@
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3860 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3864 LeetCode Problems (Weekly Update)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
@@ -3390,6 +3390,7 @@
 - [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) - 
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
@@ -4008,7 +4009,7 @@
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [signalfx/golib](https://github.com/signalfx/golib) - Golib contains various useful golang libraries
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 - [cloudfoundry/bosh-bootloader](https://github.com/cloudfoundry/bosh-bootloader) - Command line utility for standing up a BOSH director on an IAAS of your choice.
 - [moiot/gravity](https://github.com/moiot/gravity) - A Data Replication Center
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -4251,7 +4252,7 @@
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pla
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -4531,7 +4532,7 @@
 - [nytimes/openapi2proto](https://github.com/nytimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [nbio/httpcontext](https://github.com/nbio/httpcontext) - Flexible per-request contexts for vanilla Go http.Handlers.
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
@@ -4719,7 +4720,7 @@
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [etcd-io/etcdlabs](https://github.com/etcd-io/etcdlabs) - etcd playground
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
-- [casbin/casbin](https://github.com/casbin/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [rsc/sqlite](https://github.com/rsc/sqlite) - Go sqlite3 database/sql driver
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [Terry-Mao/bfs](https://github.com/Terry-Mao/bfs) - distributed file system(small file storage) writen in golang.
@@ -5356,7 +5357,7 @@
 
 ## Handlebars 
 
-- [OpenGenesisLab/beat-ai](https://github.com/OpenGenesisLab/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [genesislab-ai/beat-ai](https://github.com/genesislab-ai/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
@@ -5855,7 +5856,6 @@
 - [NatWeiss/RapidGame](https://github.com/NatWeiss/RapidGame) - A commandline tool for Windows, Mac and Linux that prebuilds cocos2d-x static libraries. Also a cross-platform game templating system.
 - [flash2x/AnnieJS](https://github.com/flash2x/AnnieJS) - AnnieJS引擎是一款专注于互动交互的2d动画引擎。借助于Adobe Animate以及Annie2x工具将以前开发as3项目的工作流程完美复制到其他需要交互的项目开发中来。更多资源和案例源码在国内码云上:https://gitee.com/flash2x
 - [olshevskiy87/simple-websocket-client](https://github.com/olshevskiy87/simple-websocket-client) - forked from https://github.com/hakobera/Simple-WebSocket-Client
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [chenquincy/app-info-parser](https://github.com/chenquincy/app-info-parser) - A javascript parser for parsing .ipa or .apk files. IPA/APK文件 js 解析器
 - [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 - [Rem486/git-webhook-handler](https://github.com/Rem486/git-webhook-handler) - Node.js web handler / middleware for processing GitHub, Gitee, Gitlab, Gitea, Gogs Webhooks
@@ -6711,7 +6711,6 @@
 - [mscdex/busboy](https://github.com/mscdex/busboy) - A streaming parser for HTML form data for node.js
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [jscas/jscas-server](https://github.com/jscas/jscas-server) - 
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -7505,7 +7504,7 @@
 - [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [wantnon/EffectNodes-for-cocos2dx](https://github.com/wantnon/EffectNodes-for-cocos2dx) - special effects collection for cocos2dx
 - [OpenAtomFoundation/TobudOS](https://github.com/OpenAtomFoundation/TobudOS) - 开放原子开源基金会孵化的物联网操作系统，捐赠前为腾讯物联网终端操作系统TencentOS Tiny
-- [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
+- [jamesrxian/xv6-chinese](https://github.com/jamesrxian/xv6-chinese) - 中文版的 MIT xv6 文档
 - [cmangos/mangos-svn](https://github.com/cmangos/mangos-svn) - All commits (excluding tags/ and branches/) from the old svn are here, feel free to browse through!
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [tumobi/pomelo-cocos-creator-awesome](https://github.com/tumobi/pomelo-cocos-creator-awesome) - 学习 pomelo 和 Cocos Creator 过程中收集的教程、麻将、斗地主棋牌项目，微信号：tumobi
@@ -7865,7 +7864,7 @@
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 A complete Python framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Over 200 included examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase simplifies browser automation, scraping, and testing. CDP Mode adds stealth (and works with Playwright). Lots of examples and YouTube tutorials.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -8859,7 +8858,7 @@
 
 ## TeX 
 
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
 - [HelloYJohn/xv6-riscv-book-zh-cn](https://github.com/HelloYJohn/xv6-riscv-book-zh-cn) - translation of xv6-riscv-book
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Functional Algorithms and Data structures
 - [wuzhouhui/awk](https://github.com/wuzhouhui/awk) - The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
@@ -9599,6 +9598,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
@@ -9625,7 +9625,7 @@
 - [caochao/cocos_creator_proj_base](https://github.com/caochao/cocos_creator_proj_base) - cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等
 - [insideria/thanos-server](https://github.com/insideria/thanos-server) - TCP service for game
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
