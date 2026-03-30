@@ -403,7 +403,6 @@
 
 - [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestra
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
@@ -455,7 +454,6 @@
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
@@ -1357,7 +1355,7 @@
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于Go Zero开发面向小型到大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero a
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -2322,7 +2320,7 @@
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [siteserver/cms](https://github.com/siteserver/cms) - SSCMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。链接是SSCMS推出的全新AI视频开源社区：献丑AI
 - [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [givebest/node-nest-vue-nuxt-cms](https://github.com/givebest/node-nest-vue-nuxt-cms) - The CMS system developed by nest.js based on node.js and nuxt.js based on vue.js is used to implement SSR(SEO)server-side rendering and generate static HTML, which is conducive to SEO.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -2513,7 +2511,7 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [spring2go/cs_study_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+- [craftcs/cs_study_plan](https://github.com/craftcs/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
@@ -2847,6 +2845,7 @@
 - [JosephP91/curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL (libcurl)
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 - [bloomberg/bde](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
+- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight WebRTC alternative
 - [jll63/yomm2](https://github.com/jll63/yomm2) - Fast, orthogonal, open multi-methods. Solve the Expression Problem in C++17.
 - [ultimatepp/ultimatepp](https://github.com/ultimatepp/ultimatepp) - U++ is a C++ cross-platform rapid application development framework focused on programmer's productivity. It includes a set of libraries (GUI, SQL, Network etc.), and integrated development environmen
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
@@ -4487,7 +4486,7 @@
 - [GodotNuts/GodotFirebase](https://github.com/GodotNuts/GodotFirebase) - Implementations of Firebase for Godot using GDScript
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [tangram-js/json-schema-editor](https://github.com/tangram-js/json-schema-editor) - JSON Schema Editor is an intuitive editor for JSON schema. It provides a tree view to present the structure of schema, and a property inspector to edit the properties of schema element. Develop with V
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -5938,7 +5937,7 @@
 - [vadv/gopher-lua-libs](https://github.com/vadv/gopher-lua-libs) - Libs for gopher lua
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
 - [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
-- [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+- [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [wspl/go-quickjs](https://github.com/wspl/go-quickjs) - QuickJS bindings for Go
 - [jjeffcaii/reactor-go](https://github.com/jjeffcaii/reactor-go) - A golang implementation for reactive-streams.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
@@ -6043,7 +6042,7 @@
 - [ssgreg/repeat](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [kak-tus/ami](https://github.com/kak-tus/ami) - Go client to reliable queues based on Redis Cluster Streams
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [joomcode/redispipe](https://github.com/joomcode/redispipe) - High-throughput Redis client for Go with implicit pipelining
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [ewohltman/pool](https://github.com/ewohltman/pool) - Go library that wraps http.Client to provide seamless higher-level connection pooling features
@@ -6898,7 +6897,7 @@
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
-- [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+- [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [wspl/go-quickjs](https://github.com/wspl/go-quickjs) - QuickJS bindings for Go
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
@@ -7318,7 +7317,7 @@
 
 ## google-cloud 
 
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [goccy/bigquery-emulator](https://github.com/goccy/bigquery-emulator) - BigQuery emulator server implemented in Go
 
 ## gradle 
@@ -8637,6 +8636,7 @@
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [ekzhang/graphics-workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders!
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
+- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
@@ -10039,6 +10039,7 @@
 
 ## llm 
 
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -10146,7 +10147,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 - [LianjiaTech/hetu](https://github.com/LianjiaTech/hetu) - 低代码平台, 可视化编辑器，单手打代码，解放你的双手
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -11397,7 +11398,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
@@ -15721,7 +15722,7 @@
 - [cnjinhao/nana](https://github.com/cnjinhao/nana) - a modern C++ GUI library
 - [tdenniston/bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 - [wheybags/freeablo](https://github.com/wheybags/freeablo) - [ARCHIVED] Modern reimplementation of the Diablo 1 game engine
-- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System in C++
 - [amzeratul/halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [gflags/gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source fil
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
@@ -15942,7 +15943,6 @@
 - [devsisters/libquic](https://github.com/devsisters/libquic) - QUIC, a multiplexed stream transport over UDP
 - [tplgy/cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
-- [nilstate/icey](https://github.com/nilstate/icey) - C++14 evented IO libraries for high performance networking and media based applications
 - [paulhodge/EASTL](https://github.com/paulhodge/EASTL) - Obsolete repo, please go to: https://github.com/electronicarts/EASTL
 - [sumeetchhetri/ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development in c++, HTTP1/HTTP2/HTTP3 compliant, Supports multiple server backends
 - [apache/apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
@@ -16272,6 +16272,7 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
+- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight WebRTC alternative
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -17342,7 +17343,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
@@ -17652,6 +17653,7 @@
 
 ## rust 
 
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
@@ -18992,6 +18994,7 @@
 - [setube/ogame-vue-ts](https://github.com/setube/ogame-vue-ts) - 一个基于 Vue 3 和 TypeScript 构建的现代化 OGame 太空策略游戏
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for self-host. Example, npm registry Mirror on China https://registry.npmmirror.com
@@ -19066,7 +19069,7 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [aiplat/uniapp](https://github.com/aiplat/uniapp) - 基于uni-app，一次开发，同时打包成Android版app、iOS版app、H5版、微信/支付宝/头条/百度/QQ/钉钉/淘宝/360等等小程序版、快应用，多个平台，界面统一，功能一致。新引入electron用于支持打包PC端(Windows、Mac、Linux)安装包
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
