@@ -438,6 +438,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [aleju/mario-ai](https://github.com/aleju/mario-ai) - Playing Mario with Deep Reinforcement Learning
@@ -2845,7 +2846,6 @@
 - [JosephP91/curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL (libcurl)
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 - [bloomberg/bde](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
-- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight WebRTC alternative
 - [jll63/yomm2](https://github.com/jll63/yomm2) - Fast, orthogonal, open multi-methods. Solve the Expression Problem in C++17.
 - [ultimatepp/ultimatepp](https://github.com/ultimatepp/ultimatepp) - U++ is a C++ cross-platform rapid application development framework focused on programmer's productivity. It includes a set of libraries (GUI, SQL, Network etc.), and integrated development environmen
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
@@ -3040,6 +3040,7 @@
 
 ## css 
 
+- [afzalimdad9/8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -3625,7 +3626,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -4211,7 +4212,7 @@
 - [luukdv/color.js](https://github.com/luukdv/color.js) - Extract colors from an image (0.75 KB) 🎨
 - [aiplat/uniapp](https://github.com/aiplat/uniapp) - 基于uni-app，一次开发，同时打包成Android版app、iOS版app、H5版、微信/支付宝/头条/百度/QQ/钉钉/淘宝/360等等小程序版、快应用，多个平台，界面统一，功能一致。新引入electron用于支持打包PC端(Windows、Mac、Linux)安装包
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 - [PanJiaChen/electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) - vue electron admin template web: http://panjiachen.github.io/vue-admin-template
@@ -4943,6 +4944,7 @@
 
 ## game-development 
 
+- [afzalimdad9/8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - [divVerent/aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [ebitenui/ebitenui](https://github.com/ebitenui/ebitenui) - User interface engine and widget library for Ebitengine
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
@@ -7652,7 +7654,7 @@
 - [notapixelstudio/starship-olympics](https://github.com/notapixelstudio/starship-olympics) - A fast-paced local party game with starships that battle in a 2d top-down arena
 - [coelhucas/hitbox-editor](https://github.com/coelhucas/hitbox-editor) - 🥊 Create and edit collision box mapping for your game. This tool is focused in fighting and beat 'em up games collision mapping.
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -8064,6 +8066,7 @@
 
 ## html5 
 
+- [afzalimdad9/8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [MilenaCarecho/30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) - Desafio criar 30 mini projetos utilizando HTML e CSS em 30 dias
@@ -8631,6 +8634,7 @@
 
 ## javascript 
 
+- [afzalimdad9/8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
@@ -8717,7 +8721,7 @@
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
 - [Javen205/TNWX](https://github.com/Javen205/TNWX) - TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
 - [chenquincy/app-info-parser](https://github.com/chenquincy/app-info-parser) - A javascript parser for parsing .ipa or .apk files. IPA/APK文件 js 解析器
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
@@ -9880,7 +9884,7 @@
 - [Overload-Technologies/Overload](https://github.com/Overload-Technologies/Overload) - 3D game engine with lua scripting
 - [jmorton06/Lumos](https://github.com/jmorton06/Lumos) - Cross-Platform C++ 2D/3D game engine
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [fevin/diffdir](https://github.com/fevin/diffdir) - use diff and vimdiff to diff dir
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
@@ -10602,7 +10606,7 @@
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [jmorton06/Lumos](https://github.com/jmorton06/Lumos) - Cross-Platform C++ 2D/3D game engine
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [fallahn/tmxlite](https://github.com/fallahn/tmxlite) - lightweight C++14 parser for Tiled tmx files
@@ -10799,6 +10803,7 @@
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
@@ -11530,7 +11535,7 @@
 - [nestjs/throttler](https://github.com/nestjs/throttler) - A rate limiting module for NestJS to work with Fastify, Express, GQL, Websockets, and RPC 🧭
 - [typegoose/typegoose](https://github.com/typegoose/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [Javen205/TNWX](https://github.com/Javen205/TNWX) - TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [colyseus/uWebSockets-express](https://github.com/colyseus/uWebSockets-express) - Express API compatibility layer for uWebSockets.js
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
@@ -12090,7 +12095,7 @@
 ## others 
 
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
@@ -13870,7 +13875,6 @@
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
 - [SonarQubeCommunity/sonar-lua](https://github.com/SonarQubeCommunity/sonar-lua) - 
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
 - [ylmbtm/PokerCraker](https://github.com/ylmbtm/PokerCraker) - 斗地主残局破解， 速度快，效率高
 - [gauseen/faster-hosts](https://github.com/gauseen/faster-hosts) - 
@@ -15820,7 +15824,6 @@
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [nlmayday/niuniu](https://github.com/nlmayday/niuniu) - 牛牛棋牌前后端完整代码（nodejs+cocos creator)
 - [DLily0129/Data-Structure](https://github.com/DLily0129/Data-Structure) - c++  顺序表、链表、静态链表、队列、一元多项式、汉诺塔、火车调度问题、操作系统调度问题、背包问题、最大连续子列和问题、KMP算法、稀疏矩阵、广义表、并查集、无向图邻接表、有向图邻接表、Krusskal算法、Prim算法、最短路径Dijsktra算法、最短路径Bellman-Ford算法、最短路径Floyd算法、拓扑排序、关键路径、优化的冒泡排序、快速排序、直接插入排序、折半插入排序、闭散列实现
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
 - [li9chuan/BaseService](https://github.com/li9chuan/BaseService) - 微信小游戏服务器，facebook instant game server,房间及卡牌类游戏服务器。支持websocket,wss及tcp协议，lua编写游戏逻辑。C++底层已支持四十余款线上产品，跨平台。lua函数支持不停机热更新。包含一个斗地主游戏逻辑。
 - [gonet2/snowflake](https://github.com/gonet2/snowflake) - snowflake based on etcd
 - [LeechanX/Data-Structures-and-Algorithms-in-C](https://github.com/LeechanX/Data-Structures-and-Algorithms-in-C) - 所有基础数据结构和算法的纯C语言实现，如各自排序、链表、栈、队列、各种树以及应用、图算法、字符串匹配算法、回溯、并查集等，献丑了
@@ -15943,6 +15946,7 @@
 - [devsisters/libquic](https://github.com/devsisters/libquic) - QUIC, a multiplexed stream transport over UDP
 - [tplgy/cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight libwebrtc alternative
 - [paulhodge/EASTL](https://github.com/paulhodge/EASTL) - Obsolete repo, please go to: https://github.com/electronicarts/EASTL
 - [sumeetchhetri/ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development in c++, HTTP1/HTTP2/HTTP3 compliant, Supports multiple server backends
 - [apache/apr](https://github.com/apache/apr) - Mirror of Apache Portable Runtime
@@ -16272,7 +16276,6 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
-- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight WebRTC alternative
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -16409,6 +16412,7 @@
 
 ## physics 
 
+- [afzalimdad9/8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
@@ -16603,7 +16607,7 @@
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
@@ -17328,7 +17332,7 @@
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
@@ -17486,7 +17490,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -19050,7 +19054,7 @@
 - [nestjs/throttler](https://github.com/nestjs/throttler) - A rate limiting module for NestJS to work with Fastify, Express, GQL, Websockets, and RPC 🧭
 - [typegoose/typegoose](https://github.com/typegoose/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [Javen205/TNWX](https://github.com/Javen205/TNWX) - TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [ApowoGames/FairyGUI-Phaser](https://github.com/ApowoGames/FairyGUI-Phaser) - Fariygui for Phaser3
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [tailuge/billiards](https://github.com/tailuge/billiards) - billiards physics in the browser
@@ -19668,7 +19672,7 @@
 - [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 - [linx4200/vue-color](https://github.com/linx4200/vue-color) - A modern collection of Vue color pickers – fast, accessible, and easy to use.
 - [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
@@ -20103,7 +20107,7 @@
 - [Overload-Technologies/Overload](https://github.com/Overload-Technologies/Overload) - 3D game engine with lua scripting
 - [jmorton06/Lumos](https://github.com/jmorton06/Lumos) - Cross-Platform C++ 2D/3D game engine
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [karrick/godirwalk](https://github.com/karrick/godirwalk) - Fast directory traversal for Golang
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [intel/pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
