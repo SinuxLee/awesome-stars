@@ -403,6 +403,7 @@
 
 - [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestra
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
@@ -455,6 +456,7 @@
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
@@ -490,6 +492,7 @@
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [datamllab/awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - Awesome Game AI materials of Multi-Agent Reinforcement Learning
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -581,6 +584,7 @@
 
 ## ai-agents 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
@@ -2963,7 +2967,7 @@
 - [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
-- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
+- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [Hyperparticle/nodulus](https://github.com/Hyperparticle/nodulus) - Puzzle game with clever twists (Unity3d)
 - [loic-sharma/BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
@@ -3695,7 +3699,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
@@ -3779,7 +3783,7 @@
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [dobyte/due](https://github.com/dobyte/due) - 基于Go语言开发的高性能分布式游戏服务器框架
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [surparallel/luacluster](https://github.com/surparallel/luacluster) - MMO game server: Unity includes a 10,000 Player scene
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
@@ -3872,7 +3876,7 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年3月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年4月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -3908,7 +3912,7 @@
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [vicanso/diving-rs](https://github.com/vicanso/diving-rs) - Exploring each layer in a docker image, it's fast and simple
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
@@ -4589,7 +4593,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [GameFrameX/GameFrameX](https://github.com/GameFrameX/GameFrameX) - Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+ProtoBuff+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
-- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
+- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
@@ -4766,7 +4770,7 @@
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above
 - [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
 - [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
-- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
+- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [Hyperparticle/nodulus](https://github.com/Hyperparticle/nodulus) - Puzzle game with clever twists (Unity3d)
 - [dducode/Runner](https://github.com/dducode/Runner) - Небольшая игра, в которой вы бежите вперёд, собирая бонусы и обходя препятствия
@@ -4944,6 +4948,7 @@
 
 ## game-development 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [afzalimdad9/8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - [divVerent/aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [ebitenui/ebitenui](https://github.com/ebitenui/ebitenui) - User interface engine and widget library for Ebitengine
@@ -4953,7 +4958,7 @@
 - [raylib-zig/raylib-zig](https://github.com/raylib-zig/raylib-zig) - Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
-- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
+- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
 - [dducode/Runner](https://github.com/dducode/Runner) - Небольшая игра, в которой вы бежите вперёд, собирая бонусы и обходя препятствия
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Co-op Action Roguelike in Unreal Engine C++
@@ -5179,6 +5184,7 @@
 
 ## gamedev 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [flamendless/Slab](https://github.com/flamendless/Slab) - An immediate mode GUI for the Love2D framework.
 - [cloudfreexiao/pluto](https://github.com/cloudfreexiao/pluto) - skynet 以 CMake 方式组织工程的跨平台的实现.
 - [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
@@ -6317,6 +6323,7 @@
 
 ## godot 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [don-tnowe/godot-auto-layout](https://github.com/don-tnowe/godot-auto-layout) - Press Shift+A to add a container for your green fellows.
 - [njamster/habituary](https://github.com/njamster/habituary) - A desktop app for managing to-dos.
 - [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
@@ -6519,7 +6526,7 @@
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
@@ -6670,7 +6677,7 @@
 - [stephenlacy/go-urbit](https://github.com/stephenlacy/go-urbit) - Golang interface for Urbit. Connect natively with urbit's ames wire protocol
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [goombaio/dag](https://github.com/goombaio/dag) - A DAG, Directed acyclic graph implementation in golang.
 - [byebyebruce/natsrpc](https://github.com/byebyebruce/natsrpc) - NATSRPC, transport by nats, define by proto file(gen code),use like grpc
 - [OpenAtomFoundation/SmartIDE](https://github.com/OpenAtomFoundation/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
@@ -7384,6 +7391,7 @@
 
 ## gui 
 
+- [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 - [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A modern theming library for Tkinter that adds sleek, responsive styles inspired by Bootstrap. Includes ready-to-use widgets, 20+ themes, and tools for building beautiful, cross-platform desktop apps 
@@ -7685,7 +7693,7 @@
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
 - [lafriks/go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -8439,7 +8447,7 @@
 - [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [xia-chu/TcpProxy](https://github.com/xia-chu/TcpProxy) - 一个tcp代理工具；借助公网服务器中转，可以把NAT内的远端设备的tcp端口映射至localhost，访问localhost映射端口相当于访问远端设备端口。
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等功能。
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [xeniumlee/iotedge.skynet](https://github.com/xeniumlee/iotedge.skynet) - IoT edge based on skynet
@@ -9020,7 +9028,6 @@
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
-- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [owent/xresloader](https://github.com/owent/xresloader) - 跨平台Excel导表工具(Excel=&gt;protobuf/msgpack/lua/javascript/json/xml)
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
@@ -9491,7 +9498,7 @@
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
@@ -9780,6 +9787,7 @@
 
 ## linux 
 
+- [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -10229,7 +10237,7 @@
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [esrrhs/pLua](https://github.com/esrrhs/pLua) - Lua 性能分析工具 Lua profiler tool like gperftools
 - [alexeyco/binder](https://github.com/alexeyco/binder) - High level go to Lua binder. Write less, do more.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [PaulBernier/castl](https://github.com/PaulBernier/castl) - JavaScript to Lua compiler with runtime library.
 - [tl-open-source/tl-ops-manage](https://github.com/tl-open-source/tl-ops-manage) - api-gateway, framework for service management based on openresty。balance, health-check, limit-fuse, waf, 负载均衡，健康检查，服务熔断，服务限流，动态配置，数据统计,  waf过滤，黑白名单，基于openresty的API网关
 - [siffiejoe/lua-rotable](https://github.com/siffiejoe/lua-rotable) - Save memory with custom module "tables"
@@ -10535,6 +10543,7 @@
 
 ## macos 
 
+- [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -10784,6 +10793,7 @@
 - [ee0pdt/Godot-MCP](https://github.com/ee0pdt/Godot-MCP) - An MCP for Godot that lets you create and edit games in the Godot game engine with tools like Claude
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -10799,7 +10809,7 @@
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
@@ -11277,7 +11287,7 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -11287,7 +11297,7 @@
 
 ## neovim-colorscheme 
 
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 
 ## nestjs 
 
@@ -12272,6 +12282,7 @@
 - [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 - [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka) - asyncio client for kafka
+- [abseil/abseil-py](https://github.com/abseil/abseil-py) - Abseil Common Libraries (Python)
 - [ysyisyourbrother/SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook) - 本项目分享了中山大学计算机学院本科和研究生阶段的课程资料、笔记、期末考试卷和其他实用的相关资源。希望对同学们的学习有所帮助❤️，如果喜欢记得给个star🌟
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
@@ -15172,6 +15183,7 @@
 - [crypt1d/redi.sh](https://github.com/crypt1d/redi.sh) - Primitive redis client written entirely in Bash
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
+- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [no5ix/realtime-server](https://github.com/no5ix/realtime-server) - A Realtime Dedicated Game Server.
@@ -15623,7 +15635,6 @@
 - [JochenKalmbach/StackWalker](https://github.com/JochenKalmbach/StackWalker) - Walking the callstack in windows applications
 - [jamwt/libtask](https://github.com/jamwt/libtask) - Russ Cox's libtask (with enhancements)
 - [wsxiaoys/libtask](https://github.com/wsxiaoys/libtask) - a fork of http://code.google.com/p/libtask/
-- [gaochundong/TheBeautyOfDesignPatterns](https://github.com/gaochundong/TheBeautyOfDesignPatterns) - Design Pattern Practices
 - [cyclegtx/cocos2dx-iog-state-sync](https://github.com/cyclegtx/cocos2dx-iog-state-sync) - 状态同步实现io游戏
 - [cyclegtx/colyseus-iog-state-sync](https://github.com/cyclegtx/colyseus-iog-state-sync) - colyseus 服务器端实现状态同步 io游戏
 - [cyclegtx/cocos2dx-iog-lockstep-sync](https://github.com/cyclegtx/cocos2dx-iog-lockstep-sync) - CocosCreator 帧同步实现io游戏
@@ -15937,7 +15948,7 @@
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
-- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
+- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Core cryptographic library for Windows, Azure Linux and other products
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [greg7mdp/sparsepp](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++
 - [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers
@@ -16758,7 +16769,6 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
-- [abseil/abseil-py](https://github.com/abseil/abseil-py) - Abseil Common Libraries (Python)
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
@@ -17181,6 +17191,7 @@
 
 ## qt 
 
+- [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
@@ -17532,7 +17543,7 @@
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
-- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
+- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Puffing up reinforcement learning
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [NeymarL/ChineseChess-AlphaZero](https://github.com/NeymarL/ChineseChess-AlphaZero) - Implement AlphaZero/AlphaGo Zero methods on Chinese chess.
@@ -18850,7 +18861,6 @@
 
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-- [abseil/abseil-py](https://github.com/abseil/abseil-py) - Abseil Common Libraries (Python)
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -19275,6 +19285,7 @@
 
 ## ui 
 
+- [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [flamendless/Slab](https://github.com/flamendless/Slab) - An immediate mode GUI for the Love2D framework.
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
@@ -19346,12 +19357,13 @@
 
 ## unity 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [smkplus/ShaderMan](https://github.com/smkplus/ShaderMan) - Convert ShaderToy to Unity  HLSL/CG
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [qq362946/Fantasy](https://github.com/qq362946/Fantasy) - C # Game Framework, but not limited to games. Can be used for non game business development
 - [channeldorg/channeld](https://github.com/channeldorg/channeld) - Next-Gen Gateway Service for distributed game servers built with Unreal or Unity Engine
 - [Mukarillo/UnityTetris](https://github.com/Mukarillo/UnityTetris) - Tetris clone written in C# and using Unity engine to render.
-- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
+- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [Hyperparticle/nodulus](https://github.com/Hyperparticle/nodulus) - Puzzle game with clever twists (Unity3d)
 - [dducode/Runner](https://github.com/dducode/Runner) - Небольшая игра, в которой вы бежите вперёд, собирая бонусы и обходя препятствия
 - [pschraut/UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -19451,6 +19463,7 @@
 
 ## unreal-engine 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [Allar/ue5-style-guide](https://github.com/Allar/ue5-style-guide) - An attempt to make Unreal Engine 4 projects more consistent
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Co-op Action Roguelike in Unreal Engine C++
 - [zfoo-project/zfoo](https://github.com/zfoo-project/zfoo) - 💡Extremely fast enterprise server framework, can be used in RPC,  game server,  web server.
@@ -19540,7 +19553,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [fevin/diffdir](https://github.com/fevin/diffdir) - use diff and vimdiff to diff dir
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -20002,6 +20015,7 @@
 
 ## windows 
 
+- [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [hellzerg/optimizerNXT](https://github.com/hellzerg/optimizerNXT) - The finest Windows Optimizer CLI
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS c
