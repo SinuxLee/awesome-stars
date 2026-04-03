@@ -90,7 +90,7 @@
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [libretro/Craft](https://github.com/libretro/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [gels123/snpp](https://github.com/gels123/snpp) - 
-- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
+- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Puffing up reinforcement learning
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
 - [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
@@ -1191,7 +1191,7 @@
 - [764424567/Game_Parkour](https://github.com/764424567/Game_Parkour) - Unity开发跑酷游戏
 - [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
 - [Mukarillo/UnityTetris](https://github.com/Mukarillo/UnityTetris) - Tetris clone written in C# and using Unity engine to render.
-- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
+- [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
@@ -1492,7 +1492,6 @@
 - [beetlex-io/BeetleX](https://github.com/beetlex-io/BeetleX) - high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [youxijishu/xinyue-game-frame](https://github.com/youxijishu/xinyue-game-frame) - 
-- [gaochundong/TheBeautyOfDesignPatterns](https://github.com/gaochundong/TheBeautyOfDesignPatterns) - Design Pattern Practices
 - [dongjunjie/mir3-zircon-server](https://github.com/dongjunjie/mir3-zircon-server) - 传奇三国际服源代码
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools
@@ -3389,7 +3388,7 @@
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -3722,7 +3721,7 @@
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [davyxu/gosproto](https://github.com/davyxu/gosproto) - 基于云风的sproto二进制标准上的描述文件及代码生成工具
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
 - [goombaio/dag](https://github.com/goombaio/dag) - A DAG, Directed acyclic graph implementation in golang.
@@ -6931,7 +6930,7 @@
 - [flily/lua-performance](https://github.com/flily/lua-performance) - Lua performance guide
 - [jagt/pprint.lua](https://github.com/jagt/pprint.lua) - yet another lua pretty printer
 - [stravant/LuaMinify](https://github.com/stravant/LuaMinify) - Lua source code minifier.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [mah0x211/lua-postgres](https://github.com/mah0x211/lua-postgres) - PostgreSQL client for lua.
 - [rxi/coil](https://github.com/rxi/coil) - A tiny cooperative threading module for Lua
 - [Veinin/skynet-logger](https://github.com/Veinin/skynet-logger) - 
