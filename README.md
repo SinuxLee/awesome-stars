@@ -74,7 +74,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 
 ## Batchfile 
 
@@ -1584,7 +1584,7 @@
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [NodeppOfficial/nodepp](https://github.com/NodeppOfficial/nodepp) - A runtime for writing reliable asynchronous applications with C++. Provides I/O, networking, scheduling, timers, ...
 - [Nicoshev/rapidhash](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm.
-- [eeTools/SimulIDE-dev](https://github.com/eeTools/SimulIDE-dev) - SimulIDE Circuit Simulator.
+- [Arcachofo/SimulIDE-dev](https://github.com/Arcachofo/SimulIDE-dev) - SimulIDE Circuit Simulator.
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11
 - [Maratyszcza/FXdiv](https://github.com/Maratyszcza/FXdiv) - C99/C++ header-only library for division via fixed-point multiplication by inverse
 - [danieldrotos/ucsim](https://github.com/danieldrotos/ucsim) - uCsim microcontroller simulator
@@ -2684,7 +2684,7 @@
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 - [bloomberg/bde](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
-- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight libwebrtc alternative
+- [nilstate/icey](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative, built in C++20
 - [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [paulhodge/EASTL](https://github.com/paulhodge/EASTL) - Obsolete repo, please go to: https://github.com/electronicarts/EASTL
@@ -5686,7 +5686,6 @@
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [firekula/mcp-bridge](https://github.com/firekula/mcp-bridge) - 这是一个为 Cocos Creator 设计的 MCP (Model Context Protocol) 桥接插件，用于连接外部 AI 工具与 Cocos Creator 编辑器，实现对场景、节点等资源的自动化操作。
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
@@ -6592,6 +6591,7 @@
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [wecatch/china_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs
 - [rain1017/quick-pomelo](https://github.com/rain1017/quick-pomelo) - A Much Better Pomelo Game Server Framework (网易Pomelo框架深度优化版)
 - [eggjs/egg-alinode](https://github.com/eggjs/egg-alinode) - alinode plugin for egg
@@ -7927,7 +7927,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [mar10/wsgidav](https://github.com/mar10/wsgidav) - A generic and extendable WebDAV server based on WSGI
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [RobotWebTools/rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - Server Implementations of the rosbridge v2 Protocol
@@ -8931,6 +8931,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- [firekula/mcp-bridge](https://github.com/firekula/mcp-bridge) - 这是一个为 Cocos Creator 设计的 MCP (Model Context Protocol) 桥接插件，用于连接外部 AI 工具与 Cocos Creator 编辑器，实现对场景、节点等资源的自动化操作。
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
@@ -9597,7 +9598,6 @@
 - [Ismaestro/angular-example-app](https://github.com/Ismaestro/angular-example-app) - Angular Example App is a beginner-friendly, production-ready web application built with Angular 21. It serves as a real-world example showcasing core Angular features such as CRUD operations, authenti
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [timqian/express-rate-limit-redis](https://github.com/timqian/express-rate-limit-redis) - An express rate-limiting middleware using redis as its storage
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [fairygui/FairyGUI-cocoscreator](https://github.com/fairygui/FairyGUI-cocoscreator) - A flexible UI framework for Cocos Creator
