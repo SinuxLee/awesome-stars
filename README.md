@@ -3726,7 +3726,7 @@
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [davyxu/gosproto](https://github.com/davyxu/gosproto) - 基于云风的sproto二进制标准上的描述文件及代码生成工具
-- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
+- [absmach/magistrala](https://github.com/absmach/magistrala) - IoT Platform Framework
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
 - [goombaio/dag](https://github.com/goombaio/dag) - A DAG, Directed acyclic graph implementation in golang.
@@ -3965,7 +3965,7 @@
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [casdoor/casbin-oa](https://github.com/casdoor/casbin-oa) - The OA system
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 - [linuxerwang/goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
 - [shibukawa/tish](https://github.com/shibukawa/tish) - Tiny Shell
 - [tidwall/rtree](https://github.com/tidwall/rtree) - An R-tree implementation for Go
@@ -4666,7 +4666,7 @@
 - [dimfeld/httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go.
 - [jeevatkm/go-model](https://github.com/jeevatkm/go-model) - Robust & Easy to use struct mapper and utility methods for Go
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [dghubble/sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
 - [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
 - [braintree/manners](https://github.com/braintree/manners) - A polite Go HTTP server that shuts down gracefully.
@@ -7284,6 +7284,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [guowei-gong/GameBackendProgrammerStudyNotes](https://github.com/guowei-gong/GameBackendProgrammerStudyNotes) - 💧 游戏后端程序员学习笔记
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
 - [wqaetly/ET](https://github.com/wqaetly/ET) - ET + hybridlcr + YooAsset + luban + FGUI + NKGMoba + UniTask
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -7724,7 +7725,6 @@
 ## PowerShell 
 
 - [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
@@ -8423,7 +8423,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
