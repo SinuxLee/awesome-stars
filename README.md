@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -71,6 +72,10 @@
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [sharow/libconcurrent](https://github.com/sharow/libconcurrent) - :copyright: Concurrent Programming Library (Coroutine) for C11
+
+## Astro 
+
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## Awk 
 
@@ -1505,6 +1510,8 @@
 
 ## C++ 
 
+- [ChenlizheMe/Infernux](https://github.com/ChenlizheMe/Infernux) - Open-source game engine with a C++17 / Vulkan runtime and a Python production layer.
+- [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -2905,7 +2912,6 @@
 - [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [dbarkwell/Ocelot.ConfigEditor](https://github.com/dbarkwell/Ocelot.ConfigEditor) - A configuration editor for Ocelot (https://github.com/TomPallister/Ocelot)
 - [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 
 ## Cuda 
@@ -3389,7 +3395,6 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
@@ -5511,9 +5516,9 @@
 - [mochat-cloud/mochat-java](https://github.com/mochat-cloud/mochat-java) - 基于企业微信的开源应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 - [arianne/stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel.
-- [lealone/Lealone](https://github.com/lealone/Lealone) - 一个安全的能够自我进化的 AI 应用开发平台
+- [lealone/Lealone](https://github.com/lealone/Lealone) - 一个能安全适用于个人助理和企业应用的全栈自进化通用智能体
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
-- [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
+- [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 - [alibaba/cobar](https://github.com/alibaba/cobar) - a proxy for sharding databases and tables
 - [jenkinsci/ssh-steps-plugin](https://github.com/jenkinsci/ssh-steps-plugin) - Jenkins pipeline steps which provides SSH facilities such as command execution or file transfer for continuous delivery.
 - [jenkinsci/active-choices-plugin](https://github.com/jenkinsci/active-choices-plugin) - This plugin provides new scripted, dynamic parameters for freestyle jobs that can be rendered as combo-boxes, check-boxes, radio-buttons or rich HTML UI widgets.
@@ -5559,7 +5564,7 @@
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，可替代 Tableau 和 JasperReports，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，完美替代帆软和Tableau，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 - [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
@@ -6791,7 +6796,7 @@
 - [MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN) - LLMs-from-scratch项目中文翻译
 - [boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL) - https://hrl.boyuai.com/
 - [shsarv/Machine-Learning-Projects](https://github.com/shsarv/Machine-Learning-Projects) - This repository showcases a selection of machine learning projects undertaken to understand and master various ML concepts. Each project reflects commitment to applying theoretical knowledge to practi
-- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [AllenDowney/ThinkStats](https://github.com/AllenDowney/ThinkStats) - Notebooks for the third edition of Think Stats
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -7705,6 +7710,7 @@
 
 ## PLpgSQL 
 
+- [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 - [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
 
 ## Perl 
@@ -7729,6 +7735,7 @@
 
 ## Python 
 
+- [ekiefl/pooltool](https://github.com/ekiefl/pooltool) - A sandbox billiards game that emphasizes realistic physics
 - [aisoft-course/aisoft-course.github.io](https://github.com/aisoft-course/aisoft-course.github.io) - 人工智能的软件基础课程主页（复旦大学通识课程）
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
@@ -7745,7 +7752,7 @@
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文后训练版仓库 - 微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档。
 - [no-magic-ai/no-magic](https://github.com/no-magic-ai/no-magic) - Because `model.fit()` isn't an explanation
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
@@ -7778,7 +7785,7 @@
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.
 - [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~400 lines) event loop for Python.
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
@@ -7871,7 +7878,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [NeymarL/ChineseChess-AlphaZero](https://github.com/NeymarL/ChineseChess-AlphaZero) - Implement AlphaZero/AlphaGo Zero methods on Chinese chess.
@@ -8492,7 +8499,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -8541,6 +8548,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [vicanso/diving-rs](https://github.com/vicanso/diving-rs) - Exploring each layer in a docker image, it's fast and simple
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 - [WuBingzheng/build-lua-in-rust](https://github.com/WuBingzheng/build-lua-in-rust) - 《用Rust实现Lua解释器》 / _Build a Lua Interpreter in Rust_
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
@@ -8743,7 +8751,6 @@
 - [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-- [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [meetbill/op_practice_book](https://github.com/meetbill/op_practice_book) - 📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
