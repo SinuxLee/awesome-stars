@@ -1942,7 +1942,7 @@
 - [panda3d/panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 - [daedric/httpp](https://github.com/daedric/httpp) - Micro http server and client written in C++
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
-- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
+- [TheHPXProject/hpx](https://github.com/TheHPXProject/hpx) - The C++ Standard Library for Parallelism and Concurrency
 - [xuwening/libeventInterface](https://github.com/xuwening/libeventInterface) - C++实现，对libevent库二次开发，解决libevent和自有服务融合问题
 - [c-ridgway/cpp-feather-ini-parser](https://github.com/c-ridgway/cpp-feather-ini-parser) - Header only, simple, fast, templated - portable INI parser for ANSI C++.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -10166,6 +10166,7 @@
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 - [lealone/Lealone](https://github.com/lealone/Lealone) - 一个能安全适用于个人助理和企业应用的全栈自进化通用智能体
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
@@ -11225,7 +11226,7 @@
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [shineframe/shineframe](https://github.com/shineframe/shineframe) - 高性能超轻量级C++开发库及服务器编程框架
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等功能。
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
@@ -13074,7 +13075,7 @@
 - [Mogara/QSanguosha](https://github.com/Mogara/QSanguosha) - An open source online version of the famous board game Sanguosha
 - [gaodayihao/QSanguosha](https://github.com/gaodayihao/QSanguosha) - An open source online version of the famous board game Sanguosha
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
-- [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
+- [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。
 - [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
 - [cocos-creator/cocos-tutorial-hot-update](https://github.com/cocos-creator/cocos-tutorial-hot-update) - Tutorial project for Cocos Creator hot update
 - [picoe/Eto](https://github.com/picoe/Eto) - Cross platform GUI framework for desktop and mobile applications in .NET
@@ -13375,7 +13376,7 @@
 - [fuxuemingzhu/DDIA-Reading-Notes](https://github.com/fuxuemingzhu/DDIA-Reading-Notes) - 《数据密集型应用系统设计》精华整理，字数为原书的 1/5 左右。图文并茂，适合阅读。
 - [hyhlinux/DDIA](https://github.com/hyhlinux/DDIA) - 《设计数据密集型应用》中文翻译 《Designing Data-Intensive Application》
 - [cgdb/cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger
-- [cangzhang/champr](https://github.com/cangzhang/champr) - 🐶 Yet another League of Legends helper
+- [cangzhang/ChampR](https://github.com/cangzhang/ChampR) - 🐶 Yet another League of Legends helper
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 - [yangxgkem/aoi](https://github.com/yangxgkem/aoi) - 游戏场景aoi
@@ -18428,7 +18429,7 @@
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 - [may-fly/mayfly](https://github.com/may-fly/mayfly) - 不断重构优化（目前主要用于沉淀日常开发中好的代码实践）——mayfly前后端分离的后台系统(包含按钮级别的权限管理)。机器管理[webssh, 文件管理，监控等]及Redis单机以及集群管理（已完成部分接口以及界面）
 - [TastSong/CrazyCar](https://github.com/TastSong/CrazyCar) - 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis Plus；后台为Vue + Element；游戏端采用QFramework框架，Addressable+HybridCLR实现热更新，支持KCP和WebSocket网络。
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 异步线程池框架，支持线程池动态变更&监控&报警，无需修改代码轻松引入。Asynchronous thread pool framework, support Thread Pool Dynamic Change & monitoring & Alarm, no need to modify the code easily introduced.
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
@@ -19783,7 +19784,7 @@
 - [TastSong/CrazyCar](https://github.com/TastSong/CrazyCar) - 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis Plus；后台为Vue + Element；游戏端采用QFramework框架，Addressable+HybridCLR实现热更新，支持KCP和WebSocket网络。
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [givebest/node-nest-vue-nuxt-cms](https://github.com/givebest/node-nest-vue-nuxt-cms) - The CMS system developed by nest.js based on node.js and nuxt.js based on vue.js is used to implement SSR(SEO)server-side rendering and generate static HTML, which is conducive to SEO.
 - [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等功能。
 - [open-cmdb/cmdb](https://github.com/open-cmdb/cmdb) - CMDB 配置管理系统 资产管理系统
