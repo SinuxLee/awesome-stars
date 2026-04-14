@@ -1731,7 +1731,7 @@
 - [fjz13/Cocos2d-x-ParticleEditor-for-Windows](https://github.com/fjz13/Cocos2d-x-ParticleEditor-for-Windows) - A FREE WINDOWS cocos2d particle editor Upgraded to Cocos2dx 2.12，and support saving texture into plist。
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
-- [zhlynn/zsign](https://github.com/zhlynn/zsign) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
+- [zhlynn/zsign](https://github.com/zhlynn/zsign) - Fast Cross-Platform iOS Code Signing Tool
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [inkiu0/ELuaProfiler](https://github.com/inkiu0/ELuaProfiler) - Easy LuaProfiler
 - [xiebaochun/partygame-cocos2d-x](https://github.com/xiebaochun/partygame-cocos2d-x) - This is the partygame powered by cocos2d-x
@@ -3969,7 +3969,7 @@
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [casdoor/casbin-oa](https://github.com/casdoor/casbin-oa) - The OA system
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [linuxerwang/goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
 - [shibukawa/tish](https://github.com/shibukawa/tish) - Tiny Shell
 - [tidwall/rtree](https://github.com/tidwall/rtree) - An R-tree implementation for Go
@@ -5381,6 +5381,7 @@
 
 ## Java 
 
+- [apache/rocketmq-clients](https://github.com/apache/rocketmq-clients) - RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ
 - [openrocket/openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [apache/fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
