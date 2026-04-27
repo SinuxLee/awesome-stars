@@ -3112,7 +3112,7 @@
 - [jonboulle/clockwork](https://github.com/jonboulle/clockwork) - a fake clock for golang
 - [shenwei356/csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 - [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 - [pberkel/caddy-storage-redis](https://github.com/pberkel/caddy-storage-redis) - Implements a Caddy storage backend module for Redis supporting Single (Standalone), Cluster, or Sentinal (Failover) Redis server configurations.
@@ -3526,7 +3526,7 @@
 - [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings
 - [ua-parser/uap-go](https://github.com/ua-parser/uap-go) - Go implementation of ua-parser
 - [eliben/raft](https://github.com/eliben/raft) - :rowboat: Raft implementation in Go
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [camry/mysqldiff](https://github.com/camry/mysqldiff) - Golang 针对 MySQL 数据库表结构的差异 SQL 工具。
 - [gin-contrib/multitemplate](https://github.com/gin-contrib/multitemplate) - This is a custom HTML render to support multi templates
@@ -5717,7 +5717,7 @@
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to whatever engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
@@ -6880,6 +6880,7 @@
 
 ## Lua 
 
+- [benjames-171/defold-games](https://github.com/benjames-171/defold-games) - Collection of 2D games made with Defold
 - [britzl/defold-orthographic](https://github.com/britzl/defold-orthographic) - Orthographic camera functionality for the Defold game engine
 - [Insality/druid](https://github.com/Insality/druid) - Powerful Defold UI component framework
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .h)
@@ -7255,6 +7256,7 @@
 
 ## Others 
 
+- [britzl/publicexamples](https://github.com/britzl/publicexamples) - Examples for the Defold engine
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
@@ -7766,6 +7768,7 @@
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
@@ -7883,7 +7886,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [NeymarL/ChineseChess-AlphaZero](https://github.com/NeymarL/ChineseChess-AlphaZero) - Implement AlphaZero/AlphaGo Zero methods on Chinese chess.
@@ -8953,7 +8956,6 @@
 - [googleapis/google-cloud-node-core](https://github.com/googleapis/google-cloud-node-core) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [0xMALVEE/esp-studio](https://github.com/0xMALVEE/esp-studio) - ESP series software to access GPIO quickly. Install and you have your dashboard.
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [setube/ogame-vue-ts](https://github.com/setube/ogame-vue-ts) - 一个基于 Vue 3 和 TypeScript 构建的现代化 OGame 太空策略游戏
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
