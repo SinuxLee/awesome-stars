@@ -1511,7 +1511,6 @@
 
 ## C++ 
 
-- [ChenlizheMe/Infernux](https://github.com/ChenlizheMe/Infernux) - Open-source game engine with a C++17 / Vulkan runtime and a Python production layer.
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
 - [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
@@ -2971,6 +2970,7 @@
 
 ## GDScript 
 
+- [DaxianLee/godot-mcp](https://github.com/DaxianLee/godot-mcp) - 一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，一键配置服务。This is an MCP plugin that supports the Godot open-source engine, offering support for common Godot engine operations and one-click service configuration.
 - [240700/Tetris](https://github.com/240700/Tetris) - Godot 俄罗斯方块
 - [wojciech-bilicki/TetrisTutorial](https://github.com/wojciech-bilicki/TetrisTutorial) - 
 - [Week2019/TileSetHelper](https://github.com/Week2019/TileSetHelper) - Enhanced assistant plugin for TileSet above Godot4.3.
@@ -5129,7 +5129,7 @@
 - [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) - Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [e421083458/golang_common](https://github.com/e421083458/golang_common) - A Quick start, Lightweight, Golang Public Class Library
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [gobwas/ws](https://github.com/gobwas/ws) - A tiny WebSocket library for Go.
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [xiaonanln/goworld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping in Golang
 - [EngoEngine/engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go.
@@ -6472,7 +6472,7 @@
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -7744,6 +7744,7 @@
 ## Python 
 
 - [selimanac/defold-astar](https://github.com/selimanac/defold-astar) - Pathfinder and A* solver (astar or a-star) native extension for Defold Engine build on MicroPather.
+- [ChenlizheMe/Infernux](https://github.com/ChenlizheMe/Infernux) - Open-source game engine with a C++17 / Vulkan runtime and a Python production layer.
 - [ekiefl/pooltool](https://github.com/ekiefl/pooltool) - A sandbox billiards game that emphasizes realistic physics
 - [aisoft-course/aisoft-course.github.io](https://github.com/aisoft-course/aisoft-course.github.io) - 人工智能的软件基础课程主页（复旦大学通识课程）
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
@@ -8721,6 +8722,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
