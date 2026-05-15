@@ -478,11 +478,12 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 
 ## ai 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [ikpil/DotRecast](https://github.com/ikpil/DotRecast) - DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -601,8 +602,8 @@
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，完美替代帆软和Tableau，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
@@ -790,7 +791,7 @@
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
@@ -3301,7 +3302,7 @@
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，完美替代帆软和Tableau，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -3414,7 +3415,7 @@
 - [XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts) - A charting and data visualization library for Unity.   Unity数据可视化图表插件。
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap) - 🔍 Go binary size SVG treemap
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 开源的报表工具与BI大屏，完美替代帆软和Tableau，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -3811,7 +3812,6 @@
 
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
@@ -5104,6 +5104,7 @@
 
 ## game-development 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [ikpil/DotRecast](https://github.com/ikpil/DotRecast) - DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
@@ -5344,6 +5345,7 @@
 
 ## gamedev 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [ikpil/DotRecast](https://github.com/ikpil/DotRecast) - DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [minigdx/tiny](https://github.com/minigdx/tiny) - Tiny is a lightweight 2D game engine that allows developers to easily create games using the Lua programming language.
@@ -5514,7 +5516,6 @@
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
@@ -7317,7 +7318,7 @@
 - [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [nomad-software/vend](https://github.com/nomad-software/vend) - A dependency vendor for Go programs
 - [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
@@ -7962,7 +7963,7 @@
 - [premake/premake-core](https://github.com/premake/premake-core) - Premake
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
@@ -8795,7 +8796,7 @@
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, De
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [budgielang/budgie](https://github.com/budgielang/budgie) - A unified syntax that compiles into your favorite OOP languages. 🦜
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
@@ -9524,7 +9525,7 @@
 - [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package for querying over JSON, YAML, XML, and CSV data.
 - [sheredom/json.h](https://github.com/sheredom/json.h) - 🗄️ single header json parser for C and C++
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
 - [soheilpro/catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
@@ -9547,7 +9548,7 @@
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [beetlex-io/BeetleX.Redis](https://github.com/beetlex-io/BeetleX.Redis) - A high-performance async/non-blocking  redis client components for dotnet core,default data formater json protobuf and messagepack,support ssl
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, De
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
 - [benmcollins/libjwt](https://github.com/benmcollins/libjwt) - The C JSON Web Token Library +JWK +JWKS
 
 ## jupyter-notebook 
@@ -10214,6 +10215,7 @@
 
 ## llm 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
@@ -10239,7 +10241,6 @@
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -10880,6 +10881,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
@@ -10950,6 +10952,7 @@
 
 ## mcp 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
@@ -10988,7 +10991,7 @@
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
@@ -11387,7 +11390,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
 - [rabbitLove520/WinWnmp](https://github.com/rabbitLove520/WinWnmp) - A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））
@@ -12127,6 +12130,7 @@
 
 ## openai 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
@@ -16721,7 +16725,7 @@
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -17475,7 +17479,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
@@ -18563,7 +18567,7 @@
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [shuzheng/zheng](https://github.com/shuzheng/zheng) - 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, De
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
 
 ## spring-boot 
 
@@ -19588,6 +19592,7 @@
 
 ## unity 
 
+- [Glade-tool/glade-mcp-unity](https://github.com/Glade-tool/glade-mcp-unity) - Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, an
 - [ikpil/DotRecast](https://github.com/ikpil/DotRecast) - DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [smkplus/ShaderMan](https://github.com/smkplus/ShaderMan) - Convert ShaderToy to Unity  HLSL/CG
