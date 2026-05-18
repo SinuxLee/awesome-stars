@@ -4833,7 +4833,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
 - [CatLib/Core](https://github.com/CatLib/Core) - CatLib lightweight dependency injection container
 - [ylmbtm/LuaServerFrame](https://github.com/ylmbtm/LuaServerFrame) - 将原来的框架改为使用lua作为开发语言
@@ -8046,7 +8046,7 @@
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [nestjs/swagger](https://github.com/nestjs/swagger) - OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
@@ -11666,7 +11666,7 @@
 - [koajs/koa-redis](https://github.com/koajs/koa-redis) - Redis storage for Koa session middleware/cache with Sentinel and Cluster support
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
@@ -17035,7 +17035,7 @@
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Stealthy automation (via CDP Mode) that passes every bot detection test with any Chromium browser you want. Includes a test framework. 150/150 stealth tests passed. Makes Playwright stealthy.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [estarq/i8051emu](https://github.com/estarq/i8051emu) - Intel 8051 microcontroller emulator
@@ -20025,7 +20025,7 @@
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [L-Chris/vue-design](https://github.com/L-Chris/vue-design) - Be the best website visualization builder with Vue and Electron.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
 - [eeg1412/wikimoeCardByNodeJS](https://github.com/eeg1412/wikimoeCardByNodeJS) - 一款由玩家自由DIY卡牌的卡牌收集游戏！
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
