@@ -439,7 +439,7 @@
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
-- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
+- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -452,7 +452,7 @@
 
 ## agents 
 
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Coding agents from your phone, desktop and CLI
 - [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
@@ -596,7 +596,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [zyx0814/FilePress](https://github.com/zyx0814/FilePress) - 一款全新的文件驱动型建站系统
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
+- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [SaiTingHu/HTFramework](https://github.com/SaiTingHu/HTFramework) - Unity HTFramework, a rapid development framework of client based on Unity.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [zhandouxiaojiji/behavior3lua](https://github.com/zhandouxiaojiji/behavior3lua) - behavior tree for lua
@@ -2171,13 +2171,13 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) - 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Coding agents from your phone, desktop and CLI
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
@@ -2189,7 +2189,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -3498,7 +3498,7 @@
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree.
-- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
+- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [mailru/go-clickhouse](https://github.com/mailru/go-clickhouse) - Golang SQL database driver for Yandex ClickHouse
@@ -3740,9 +3740,9 @@
 
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Coding agents from your phone, desktop and CLI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -10309,7 +10309,7 @@
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
-- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
+- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -11121,7 +11121,7 @@
 
 ## mobile 
 
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Coding agents from your phone, desktop and CLI
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -16934,7 +16934,7 @@
 
 ## prompt-engineering 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
@@ -18679,7 +18679,7 @@
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.
 - [hyrise/sql-parser](https://github.com/hyrise/sql-parser) - SQL Parser for C++. Building C++ object structure from SQL statements.
 - [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable,
-- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
+- [lealone/Lealone](https://github.com/lealone/Lealone) - 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
 - [upper/db](https://github.com/upper/db) - Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
