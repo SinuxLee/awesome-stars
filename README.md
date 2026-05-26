@@ -779,6 +779,7 @@
 - [mattsta/krmt](https://github.com/mattsta/krmt) - krmt: Kit of Redis Module Tools
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [openresty/redis2-nginx-module](https://github.com/openresty/redis2-nginx-module) - Nginx upstream module for the Redis 2.0 protocol
+- [sheredom/json.h](https://github.com/sheredom/json.h) - 🗄️ single header json parser for C and C++
 - [langhai/http-client-c](https://github.com/langhai/http-client-c) - A quick and dirty HTTP client library in and for C.
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [antirez/disque-module](https://github.com/antirez/disque-module) - Disque ported as Redis module
@@ -2354,7 +2355,6 @@
 - [sewenew/redis-protobuf](https://github.com/sewenew/redis-protobuf) - Redis module for reading and writing Protobuf messages
 - [zoohanyoo/node-ctp](https://github.com/zoohanyoo/node-ctp) - 高性能期货交易框架
 - [langhuihui/node-ctp](https://github.com/langhuihui/node-ctp) - 高性能期货交易框架
-- [sheredom/json.h](https://github.com/sheredom/json.h) - 🗄️ single header json parser for C and C++
 - [tsymiar/TheLastBattle](https://github.com/tsymiar/TheLastBattle) - MOBA手游【最后一战】unity3d C++ mirror
 - [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
 - [ElunaLuaEngine/ElunaTrinityWotlk](https://github.com/ElunaLuaEngine/ElunaTrinityWotlk) - Eluna Lua Engine merged with Trinity 3.3.5
@@ -5736,7 +5736,7 @@
 - [SimonAKing/HomePage](https://github.com/SimonAKing/HomePage) - A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions
 - [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
-- [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+- [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 - [hexianWeb/island](https://github.com/hexianWeb/island) - A 2.5D style portfolio build by Threejs. (一个 3D 风格的 Threejs 个人简历)
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
@@ -6066,7 +6066,7 @@
 - [adamsol/ThreeStudio](https://github.com/adamsol/ThreeStudio) - 3D game editor based on Three.js and Electron.
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
-- [tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/
+- [tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web.
 - [RonenNess/RPGUI](https://github.com/RonenNess/RPGUI) - Lightweight framework for old-school RPG GUI in web!
 - [jmoenig/Snap](https://github.com/jmoenig/Snap) - a visual programming language inspired by Scratch
 - [dtjohnson/xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support, jQuery/d3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact.
