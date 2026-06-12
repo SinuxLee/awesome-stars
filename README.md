@@ -2957,7 +2957,7 @@
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.
 - [apache/apisix-docker](https://github.com/apache/apisix-docker) - the docker for Apache APISIX
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## EJS 
@@ -2971,6 +2971,7 @@
 
 ## GDScript 
 
+- [umutsevdi/Logic-Circuit-Simulator](https://github.com/umutsevdi/Logic-Circuit-Simulator) - A free and open-source Logic Circuit Simulator built in Godot Engine.
 - [bitwes/Gut](https://github.com/bitwes/Gut) - Godot Unit Test.  Unit testing tool for Godot Game Engine.
 - [yurineko73/Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native) - 一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP 
 - [DaxianLee/godot-mcp](https://github.com/DaxianLee/godot-mcp) - 一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，一键配置服务。This is an MCP plugin that supports the Godot open-source engine, offering support for common Godot engine operations and one-click service configuration.
@@ -4127,7 +4128,7 @@
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [tikv/pd](https://github.com/tikv/pd) - Placement driver for TiKV
-- [tklauser/go-sysconf](https://github.com/tklauser/go-sysconf) - sysconf for Go, without using cgo
+- [tklauser/go-sysconf](https://github.com/tklauser/go-sysconf) - sysconf and pathconf for Go, without using cgo
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) - A simple go implementation of json rpc 2.0 client over http
@@ -5407,7 +5408,7 @@
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
-- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
+- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers
 - [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) 
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
@@ -5692,7 +5693,6 @@
 
 ## JavaScript 
 
-- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
 - [m-byte918/MultiOgarII](https://github.com/m-byte918/MultiOgarII) - A continued version of the original MultiOgar, an open source Ogar server implementation written with Node.js.
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
@@ -6077,7 +6077,7 @@
 - [skishore/makemeahanzi](https://github.com/skishore/makemeahanzi) - Free, open-source Chinese character data
 - [mikewesthad/navmesh](https://github.com/mikewesthad/navmesh) - A plugin for path-finding in JS using navmeshes, with wrappers for Phaser 3 and Phaser 2
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, versatile, and complete.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [anthonygauthier/axios-curlirize](https://github.com/anthonygauthier/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
 - [Voyzz/Fruit-store-mp](https://github.com/Voyzz/Fruit-store-mp) - 🍊微信小程序-水果商城-云开发
@@ -7408,7 +7408,6 @@
 - [nosuggest/Reflection_Summary](https://github.com/nosuggest/Reflection_Summary) - 算法理论基础知识应知应会
 - [huangzworks/redis-mindmap](https://github.com/huangzworks/redis-mindmap) - Redis 命令脑图
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
-- [sunface/codecc](https://github.com/sunface/codecc) - 零一次元：记录个人关于技术、管理、经济和社会的深度思考
 - [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide) - C/C++学习，后端开发进阶指南。
 - [rockboom/SheetJS-docs-zh-CN](https://github.com/rockboom/SheetJS-docs-zh-CN) - SheetJS中文文档，版本v0.14.0，持续更新中
 - [aceld/libevent](https://github.com/aceld/libevent) - &lt;Libevent深入浅出&gt;本书要求有一定的服务并发编程基础，了解select和epoll等多路I/O复用机制。
@@ -8149,7 +8148,7 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
-- [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
 - [shibing624/text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
 - [learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions) - Learn Python Regular Expressions step by step from beginner to advanced levels
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
@@ -8788,7 +8787,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [magnific0/wondershaper](https://github.com/magnific0/wondershaper) - Command-line utility for limiting an adapter's bandwidth
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
@@ -8966,6 +8965,7 @@
 ## TypeScript 
 
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
+- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [flauwekeul/honeycomb](https://github.com/flauwekeul/honeycomb) - Create hex grids easily, in node or the browser.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -9015,7 +9015,7 @@
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
-- [pagescms/pagescms](https://github.com/pagescms/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
+- [hunvreus/pagescms](https://github.com/hunvreus/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -9309,6 +9309,7 @@
 - [dgflash/oops-framework](https://github.com/dgflash/oops-framework) - 基于 Cocos Creator 3.x 版本开发的游戏框架，此项目为 Oops Framework 教程项目，如果使用框架制作游戏项目可下载 oops-game-kit 游戏项目模板开发。
 - [LianjiaTech/hetu](https://github.com/LianjiaTech/hetu) - 低代码平台, 可视化编辑器，单手打代码，解放你的双手
 - [tsrpc/tsrpc](https://github.com/tsrpc/tsrpc) - A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeS
+- [sunface/beatui](https://github.com/sunface/beatui) - BeatUI，为 AI 打造的 UI 框架，专治各种 AI 乱象
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
