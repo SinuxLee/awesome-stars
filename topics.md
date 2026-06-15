@@ -934,7 +934,7 @@
 - [rock-app/fabu.love](https://github.com/rock-app/fabu.love) - 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/
 - [heiher/hev-task-system](https://github.com/heiher/hev-task-system) - A simple, lightweight multi-task system (coroutines)
 - [HurTeng/StormPlane](https://github.com/HurTeng/StormPlane) - ✈️《沙漠风暴》是一款基于Android开发的纵版飞行射击游戏，以雷电(Shooting Game)为原型，参考微信打飞机大战，通过自定义的SurfaceView来实现游戏，游戏画面、音乐、战斗特效都不错（附带apk安装包，可直接运行）
-- [simdsoft/yasio](https://github.com/simdsoft/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
+- [halx99/yasio](https://github.com/halx99/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -2104,7 +2104,6 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
@@ -2819,7 +2818,6 @@
 - [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
-- [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 - [forthespada/MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer) - 一款可运行的基于C++ 实现的WebServer服务器，基于《TCPIP网络编程》和《Linux高性能服务器编程》实现的服务器项目。
 - [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
@@ -6564,7 +6562,7 @@
 - [gilzoide/godot-lua-pluginscript](https://github.com/gilzoide/godot-lua-pluginscript) - Godot 3.X PluginScript for the Lua language, based on LuaJIT's FFI
 - [perbone/luascript](https://github.com/perbone/luascript) - Lua language support for Godot Engine
 - [vnen/godot-tiled-importer](https://github.com/vnen/godot-tiled-importer) - Plugin for Godot Engine to import Tiled Map Editor tilemaps and tilesets
-- [zfoo-project/godot-start](https://github.com/zfoo-project/godot-start) - godot start is godot engine utils and sample
+- [godot-fun/godot-start](https://github.com/godot-fun/godot-start) - godot start is godot engine utils and sample
 - [HK-SHAO/Plotter](https://github.com/HK-SHAO/Plotter) - A visualization tool for math, physics, information, data, art, etc.
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
@@ -8608,7 +8606,7 @@
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
 - [rock-app/fabu.love](https://github.com/rock-app/fabu.love) - 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/
-- [simdsoft/yasio](https://github.com/simdsoft/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
+- [halx99/yasio](https://github.com/halx99/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -10190,7 +10188,7 @@
 - [alibaba/cloud-kernel](https://github.com/alibaba/cloud-kernel) - Cloud Kernel - an open-source Linux kernel originated by Alibaba Operating System Team
 - [mayerui/sudoku](https://github.com/mayerui/sudoku) - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 - [heiher/hev-task-system](https://github.com/heiher/hev-task-system) - A simple, lightweight multi-task system (coroutines)
-- [simdsoft/yasio](https://github.com/simdsoft/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
+- [halx99/yasio](https://github.com/halx99/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
@@ -17223,7 +17221,6 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
-- [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
