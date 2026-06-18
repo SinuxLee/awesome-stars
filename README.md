@@ -4291,7 +4291,7 @@
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
 - [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [felixge/pprofutils](https://github.com/felixge/pprofutils) - 
 - [dolotech/Texas-Hold-em-Poker](https://github.com/dolotech/Texas-Hold-em-Poker) - 德州扑克服务器Go实现
 - [joncrlsn/dque](https://github.com/joncrlsn/dque) - dque is a fast, embedded, durable queue for Go
@@ -5306,6 +5306,7 @@
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [vis-three/vis-three](https://github.com/vis-three/vis-three) - A web 3D development framework for assembled based on three.js
 - [Micircle/scratch3.0-note](https://github.com/Micircle/scratch3.0-note) - scratch 3.0 开发笔记
+- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
@@ -5817,7 +5818,6 @@
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
-- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [tentone/nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
 - [sunnyholyd/EliminateGame](https://github.com/sunnyholyd/EliminateGame) - 
