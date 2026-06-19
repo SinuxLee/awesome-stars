@@ -112,7 +112,7 @@
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
-- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [ubisoft/Chroma](https://github.com/ubisoft/Chroma) - Chroma (developed by Ubisoft) is a one-stop solution for detecting color blindness-related issues in games. It replicates Protanopia, Deuteranopia, and Tritanopia filters over the game screen, helping
 - [luainkernel/lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
@@ -1514,6 +1514,7 @@
 
 ## C++ 
 
+- [focus-creative-games/leanclr-unity](https://github.com/focus-creative-games/leanclr-unity) - leanclr-unity 是 LeanCLR 的 Unity 插件，发布 WebGL / 小游戏平台时替换 IL2CPP 为 LeanCLR，大幅缩减包体、降低内存占用。Unity plugin that replaces IL2CPP with LeanCLR when building for WebGL and mini-games, delivering smaller package 
 - [skywind3000/GameLib](https://github.com/skywind3000/GameLib) - Single-header C++ Game Library for Beginners — no SDL/DirectX/OpenGL, no setup, just include and play.
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
@@ -3251,7 +3252,7 @@
 - [complex64/protoc-gen-gorm](https://github.com/complex64/protoc-gen-gorm) - Generate GORM v2 Models and APIs from your .proto files.
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
 - [bradfitz/gomemcache](https://github.com/bradfitz/gomemcache) - Go Memcached client library #golang
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
 - [edwingeng/doublejump](https://github.com/edwingeng/doublejump) - A revamped Google's jump consistent hash
 - [arnodel/golua](https://github.com/arnodel/golua) - A Lua compiler / runtime in Go
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -3275,7 +3276,7 @@
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
+- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
 - [Zwlin98/moon](https://github.com/Zwlin98/moon) - a sidecar for cloudwu skynet
 - [mholt/caddy-webdav](https://github.com/mholt/caddy-webdav) - WebDAV handler module for Caddy
 - [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping & MTR & TCP Port & HTTP Get - Network Prometheus exporter
@@ -5195,7 +5196,7 @@
 - [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP request router and web framework benchmark
 - [manucorporat/sse](https://github.com/manucorporat/sse) - Server-Sent Events implementation in Go. Used by the Gin Framework.
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [xtaci/gonet](https://github.com/xtaci/gonet) - A Game Server Skeleton in golang.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -5573,7 +5574,7 @@
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 一款真正的AI报表诞生了：一句话生成报表和数据大屏，支持对话式AI修改报表；类 Excel 在线报表设计，兼容国产信创 数据源。 对着AI说句话，报表就出来了——表格、图表、分组汇总全部自动配好，轻松应对各类复杂报表场景。想做大屏？同样一句话搞定。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 - [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
@@ -7906,7 +7907,7 @@
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [aschmied/klotski-solver](https://github.com/aschmied/klotski-solver) - A short program that solves the klotski sliding block puzzle game
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
