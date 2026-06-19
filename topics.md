@@ -260,6 +260,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -605,7 +606,7 @@
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 一款真正的AI报表诞生了：一句话生成报表和数据大屏，支持对话式AI修改报表；类 Excel 在线报表设计，兼容国产信创 数据源。 对着AI说句话，报表就出来了——表格、图表、分组汇总全部自动配好，轻松应对各类复杂报表场景。想做大屏？同样一句话搞定。
 - [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -625,6 +626,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [recastnavigation/recastnavigation](https://github.com/recastnavigation/recastnavigation) - Industry-standard navigation-mesh toolset for games
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -667,6 +669,7 @@
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 
 ## ajax 
 
@@ -3316,7 +3319,7 @@
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 一款真正的AI报表诞生了：一句话生成报表和数据大屏，支持对话式AI修改报表；类 Excel 在线报表设计，兼容国产信创 数据源。 对着AI说句话，报表就出来了——表格、图表、分组汇总全部自动配好，轻松应对各类复杂报表场景。想做大屏？同样一句话搞定。
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -3433,7 +3436,7 @@
 - [XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts) - A charting and data visualization library for Unity.   Unity数据可视化图表插件。
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [nikolaydubina/go-binsize-treemap](https://github.com/nikolaydubina/go-binsize-treemap) - 🔍 Go binary size SVG treemap
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 一款真正的AI报表诞生了：一句话生成报表和数据大屏，支持对话式AI修改报表；类 Excel 在线报表设计，兼容国产信创 数据源。 对着AI说句话，报表就出来了——表格、图表、分组汇总全部自动配好，轻松应对各类复杂报表场景。想做大屏？同样一句话搞定。
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -3970,7 +3973,7 @@
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [Bwar/Nebula](https://github.com/Bwar/Nebula) - Nebula is a powerful framwork for building highly concurrent, distributed, and resilient message-driven applications for C++.
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 
@@ -4487,7 +4490,7 @@
 
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
-- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [robalb/x86-64-playground](https://github.com/robalb/x86-64-playground) - An online assembly editor, emulator and debugger for the x86-64 architecture
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
@@ -4946,7 +4949,7 @@
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.0 and above
 - [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
 - [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [Hyperparticle/nodulus](https://github.com/Hyperparticle/nodulus) - Puzzle game with clever twists (Unity3d)
@@ -5140,7 +5143,7 @@
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 - [Alex-Rachel/TEngine](https://github.com/Alex-Rachel/TEngine) - Unity 商用级别开发框架，原生内置 AI 工作流支持，集成 HybridCLR 高性能热更、Obfuz 代码混淆加固、YooAssets 企业级资源管理方案，构建高效、安全、可扩展的工业化开发底座。
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
+- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Co-op Action Roguelike in Unreal Engine C++
 - [jsoysouvanh/Refureku](https://github.com/jsoysouvanh/Refureku) - Cross-platform C++17 Runtime Reflection Library
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -5269,7 +5272,7 @@
 - [ezEngine/ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
 - [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 - [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Runtime for Go + Godot
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [jsoysouvanh/Refureku](https://github.com/jsoysouvanh/Refureku) - Cross-platform C++17 Runtime Reflection Library
 - [Code-Guy/Bamboo](https://github.com/Code-Guy/Bamboo) - A modern cross-platform game engine via vulkan and c++17.
@@ -5385,8 +5388,8 @@
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [ezEngine/ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
 - [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
+- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [pschraut/UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
 - [Code-Guy/Bamboo](https://github.com/Code-Guy/Bamboo) - A modern cross-platform game engine via vulkan and c++17.
@@ -5756,7 +5759,7 @@
 - [mjpclab/go-http-file-server](https://github.com/mjpclab/go-http-file-server) - Simple command line based HTTP file server to share local file system
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [hajimehoshi/hitsumabushi](https://github.com/hajimehoshi/hitsumabushi) - Run Go programs (almost) everywhere
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
+- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -6466,7 +6469,7 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -6525,7 +6528,7 @@
 - [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template for top-down shooter, with solutions for tough problems.
 - [GodotNuts/GodotFirebase](https://github.com/GodotNuts/GodotFirebase) - Implementations of Firebase for Godot using GDScript
 - [SakuyaCN/TowDownGame](https://github.com/SakuyaCN/TowDownGame) - Godot  top-down 2D shooter game
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
+- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [benc-uk/super-dungeon-delve](https://github.com/benc-uk/super-dungeon-delve) - 2D retro style dungeon game
 - [OctoD/godot-gameplay-systems](https://github.com/OctoD/godot-gameplay-systems) - ⚔️ A plugin for Godot to create your gameplay systems in a Godot way.
@@ -6646,7 +6649,7 @@
 - [SAP/jenkins-library](https://github.com/SAP/jenkins-library) - Jenkins shared library for Continuous Delivery pipelines.
 - [complex64/protoc-gen-gorm](https://github.com/complex64/protoc-gen-gorm) - Generate GORM v2 Models and APIs from your .proto files.
 - [bradfitz/gomemcache](https://github.com/bradfitz/gomemcache) - Go Memcached client library #golang
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
 - [edwingeng/doublejump](https://github.com/edwingeng/doublejump) - A revamped Google's jump consistent hash
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
@@ -6658,7 +6661,7 @@
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
 - [hajimehoshi/hitsumabushi](https://github.com/hajimehoshi/hitsumabushi) - Run Go programs (almost) everywhere
-- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.5 GDExtension API
+- [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [AllenDang/cimgui-go](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for Dear ImGui via cimgui
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
@@ -7455,7 +7458,7 @@
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [gin-gonic/autotls](https://github.com/gin-gonic/autotls) - Support Let's Encrypt for a Go server application.
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -8318,7 +8321,7 @@
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
@@ -8549,7 +8552,7 @@
 
 - [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw: On-device AI Agent for Phone powered by Gemma 4
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
-- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -11036,6 +11039,7 @@
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
@@ -11104,7 +11108,7 @@
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [CppMicroServices/CppMicroServices](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
@@ -12340,6 +12344,7 @@
 
 ## others 
 
+- [focus-creative-games/leanclr-unity](https://github.com/focus-creative-games/leanclr-unity) - leanclr-unity 是 LeanCLR 的 Unity 插件，发布 WebGL / 小游戏平台时替换 IL2CPP 为 LeanCLR，大幅缩减包体、降低内存占用。Unity plugin that replaces IL2CPP with LeanCLR when building for WebGL and mini-games, delivering smaller package 
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [yurineko73/Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native) - 一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP 
@@ -12580,7 +12585,7 @@
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [gaowanlu/maze](https://github.com/gaowanlu/maze) - Maze game in Windows C++, random prim, recursive backtracking, recursive segmentation, maze inversion, shortest path.
 - [HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
 - [zserge/lua-promises](https://github.com/zserge/lua-promises) - A+ promises in Lua
@@ -17779,6 +17784,14 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [Zaelot-Inc/ui-libraries](https://github.com/Zaelot-Inc/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 
+## redteam 
+
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
+- [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
+
 ## redux 
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -18398,7 +18411,7 @@
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [channeldorg/channeld](https://github.com/channeldorg/channeld) - Next-Gen Gateway Service for distributed game servers built with Unreal or Unity Engine
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [cherry-game/cherry](https://github.com/cherry-game/cherry) - Actor model game server framework based on golang
+- [cherry-game/cherry](https://github.com/cherry-game/cherry) - 🍒 Cherry — Go game server framework powered by Actor Model. Serial goroutine per actor, NATS/etcd discovery, pluggable connectors (TCP/WS/HTTP), protobuf & object-pooled messaging,  time wheel, snowfl
 - [mar10/wsgidav](https://github.com/mar10/wsgidav) - A generic and extendable WebDAV server based on WSGI
 - [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
