@@ -691,7 +691,6 @@
 - [rock-app/fabu.love](https://github.com/rock-app/fabu.love) - 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/
 - [jserv/amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution
 - [wesrobb/eva](https://github.com/wesrobb/eva) - Eva is a simple cross-platform C99 library for creating event-driven applications.
-- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [xjdrew/levent](https://github.com/xjdrew/levent) - lua concurrency library based on libev, similar with gevent
 - [guidoreina/ramdisk](https://github.com/guidoreina/ramdisk) - RAM disk driver for Windows
 - [gongluck/FFmpeg4.0-study](https://github.com/gongluck/FFmpeg4.0-study) - ffmpeg4.0学习
@@ -2228,6 +2227,7 @@
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [DGuco/shmqueue](https://github.com/DGuco/shmqueue) - 基于c++内存池,共享内存和信号量实现高速的进程间通信队列,单进程读单进程写无需加锁，多进程读多进程写用信号量集实现读写锁保证读写安全
+- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [2047241149/SDEngine](https://github.com/2047241149/SDEngine) - Simple Dog 3D Graphics Rendering Engine
 - [stotko/stdgpu](https://github.com/stotko/stdgpu) - stdgpu: Efficient STL-like Data Structures on the GPU
@@ -3199,6 +3199,7 @@
 - [samber/oops](https://github.com/samber/oops) - 🔥 Error handling library with context, assertion, stack trace and source fragments
 - [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 - [apache/casbin-redis-adapter](https://github.com/apache/casbin-redis-adapter) - Redis adapter for Casbin
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
@@ -5439,7 +5440,6 @@
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [rememberber/WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [netease-im/camellia](https://github.com/netease-im/camellia) - Camellia provide easy-to-use server toolkits, such as: redis proxy、delay queue、id gen、hot key and more
@@ -6827,6 +6827,7 @@
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [TingsongYu/PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) - 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 - [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk) - 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
@@ -7322,7 +7323,6 @@
 - [luanguang/book-pdf](https://github.com/luanguang/book-pdf) - 正在以及阅读过的电子书
 - [hubojing/C-Language-Games](https://github.com/hubojing/C-Language-Games) - C语言经典小游戏。
 - [iamouyang21/vue3-compiler](https://github.com/iamouyang21/vue3-compiler) - 「vue3编译原理揭秘」 一本初中级前端都能看得懂的vue3源码分析书
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [Allar/ue5-style-guide](https://github.com/Allar/ue5-style-guide) - An attempt to make Unreal Engine 4 projects more consistent
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [tinyzqh/awesome-Robot-Operating-Syetem](https://github.com/tinyzqh/awesome-Robot-Operating-Syetem) - Learning Resources And Links Of Robot Operating System（updating）
@@ -8922,7 +8922,6 @@
 
 ## Svelte 
 
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -9159,6 +9158,7 @@
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [xshu1996/MapControl-master](https://github.com/xshu1996/MapControl-master) - 
 - [caizj-cn/pintu](https://github.com/caizj-cn/pintu) - 拼图游戏
 - [youyou233/workman](https://github.com/youyou233/workman) - 
