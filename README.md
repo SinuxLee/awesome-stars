@@ -1666,7 +1666,7 @@
 - [tenclass/mvisor](https://github.com/tenclass/mvisor) - A mini x86 hypervisor
 - [MikeLankamp/fpm](https://github.com/MikeLankamp/fpm) - C++ header-only fixed-point math library
 - [speedb-io/speedb](https://github.com/speedb-io/speedb) - A RocksDB compliant high performance scalable embedded key-value store
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests
 - [JoeStrout/miniscript](https://github.com/JoeStrout/miniscript) - source code of both C# and C++ implementations of the MiniScript scripting language
 - [eBay/NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library
@@ -3061,6 +3061,7 @@
 
 ## Go 
 
+- [go-cmd/cmd](https://github.com/go-cmd/cmd) - Non-blocking external commands in Go with streaming output
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native t
@@ -4823,7 +4824,6 @@
 - [mikioh/tcp](https://github.com/mikioh/tcp) - Package tcp implements TCP-level socket options
 - [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [gin-contrib/pprof](https://github.com/gin-contrib/pprof) - gin pprof middleware
 - [gin-contrib/cors](https://github.com/gin-contrib/cors) - Official CORS gin's middleware
@@ -5366,6 +5366,7 @@
 - [taoshihan1991/goflylivechat](https://github.com/taoshihan1991/goflylivechat) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a si
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -7447,7 +7448,6 @@
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games. (mirror)
-- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 - [RustStudy/RustBooksChina](https://github.com/RustStudy/RustBooksChina) - 记录国内的Rust书籍与文章
@@ -7636,7 +7636,7 @@
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [shockerli/php-awesome](https://github.com/shockerli/php-awesome) - PHP 优秀资源整理汇集
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [fedir/go-tooling-cheat-sheet](https://github.com/fedir/go-tooling-cheat-sheet) - Go's Tooling Cheat Sheet
@@ -9342,7 +9342,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [baiy/hoppscotch-utools](https://github.com/baiy/hoppscotch-utools) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [saltbo/zpan](https://github.com/saltbo/zpan) - A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
+- [saltbo/zpan](https://github.com/saltbo/zpan) - Lightweight file hosting platform built on top of S3-compatible storage
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [flyover/box2d.ts](https://github.com/flyover/box2d.ts) - A TypeScript port of Box2D
 - [KuoKuo666/CocosCreator-Tetris](https://github.com/KuoKuo666/CocosCreator-Tetris) - 基于CocosCreator-2.2.2版本开发的俄罗斯方块小游戏，语言TypeScript，注释很全，适合学习用！--KUOKUO
@@ -9414,6 +9414,7 @@
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
+- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [oyb81076/cocos-mobx-demo](https://github.com/oyb81076/cocos-mobx-demo) - 将mobx作为cocos creator状态管理工具
