@@ -832,6 +832,7 @@
 
 ## android 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
@@ -844,7 +845,6 @@
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+
 - [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world's greatest card game.
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -3328,7 +3328,7 @@
 
 - [getnao/nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 - [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
@@ -3443,7 +3443,7 @@
 
 ## data-visualization 
 
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
@@ -3480,7 +3480,7 @@
 - [uptrace/go-clickhouse](https://github.com/uptrace/go-clickhouse) - Golang ClickHouse client
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [oceanbase/odc](https://github.com/oceanbase/odc) - OceanBase Developer Center(ODC), An open-source, enterprise-grade database tool for collaborative development
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
@@ -4055,7 +4055,7 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年6月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -4190,7 +4190,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - A standalone, specification-compliant,  OAuth2 server written in Golang.
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [myENA/consul-backinator](https://github.com/myENA/consul-backinator) - Command line Consul backup and restore utility supporting KVs, ACLs and Queries
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -4205,7 +4205,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [hypebeast/micro-auth](https://github.com/hypebeast/micro-auth) - A microservice that makes adding authentication with Google and Github to your application easy.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -6333,7 +6333,7 @@
 - [takama/daemon](https://github.com/takama/daemon) - A daemon package for use with Go (golang) services
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL,MariaDB,kafka 同步到Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka等服务的异构中间件
@@ -6688,7 +6688,7 @@
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
 - [hajimehoshi/hitsumabushi](https://github.com/hajimehoshi/hitsumabushi) - Run Go programs (almost) everywhere
 - [godot-go/godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot 4.6 GDExtension API
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [AllenDang/cimgui-go](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for Dear ImGui via cimgui
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
@@ -7402,7 +7402,7 @@
 - [bluele/gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) - Data Structure Libraries and Algorithms implementation
 - [Allenxuxu/gev](https://github.com/Allenxuxu/gev) - 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.
 - [toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words) - 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。
@@ -8201,7 +8201,7 @@
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68275, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68367, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -8577,7 +8577,8 @@
 
 ## ios 
 
-- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw: On-device AI Agent for Phone powered by Gemma 4
+- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -8824,7 +8825,7 @@
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [ffay/lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.5、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
 - [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [aeron-io/aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
@@ -9648,7 +9649,6 @@
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -9814,7 +9814,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [AwakenCN/Almost-Famous](https://github.com/AwakenCN/Almost-Famous) - :star2: Almost-Famous(成名之路) ——卡牌游戏开源项目，架构使用SpringBoot+Netty+Maven+SpringCloud来搭建多进程分布式框架，包括Cloud、Unique、Login、Game、Match、Battle 等服务。
 - [hb-chen/micro-starter](https://github.com/hb-chen/micro-starter) - Micro 微服务实践
@@ -9831,7 +9831,7 @@
 - [googleforgames/open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -10011,6 +10011,7 @@
 ## linux 
 
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [skywind3000/GameLib](https://github.com/skywind3000/GameLib) - Single-header C++ Game Library for Beginners — no SDL/DirectX/OpenGL, no setup, just include and play.
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
@@ -10271,7 +10272,7 @@
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68275, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68367, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [klaussilveira/qengine](https://github.com/klaussilveira/qengine) - Retro game engine for creating games like it's 1997
@@ -11166,7 +11167,7 @@
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 
 ## mobile 
@@ -11211,7 +11212,7 @@
 - [mongodb/motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chenmingyong0423/go-mongox](https://github.com/chenmingyong0423/go-mongox) - A Go Mongo library based on the official MongoDB driver, featuring streamlined document operations, generic binding of structs to collections, built-in BSON doc builder,  automated field updates, stru
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
@@ -11399,7 +11400,7 @@
 - [speed2exe/myzql](https://github.com/speed2exe/myzql) - MySQL and MariaDB  driver in native Zig
 - [apecloud/ape-dts](https://github.com/apecloud/ape-dts) - ApeCloud's Data Transfer Suite, written in Rust. Provides ultra-fast data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka and ClickHouse, ideal for disaster recovery (DR) and migration sc
 - [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [oceanbase/odc](https://github.com/oceanbase/odc) - OceanBase Developer Center(ODC), An open-source, enterprise-grade database tool for collaborative development
@@ -12235,7 +12236,7 @@
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -16754,7 +16755,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [apecloud/ape-dts](https://github.com/apecloud/ape-dts) - ApeCloud's Data Transfer Suite, written in Rust. Provides ultra-fast data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka and ClickHouse, ideal for disaster recovery (DR) and migration sc
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
@@ -17107,7 +17108,7 @@
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes every bot-detection test with CDP Mode, and extends Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation, testing, and bypassing bot-detection.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [estarq/i8051emu](https://github.com/estarq/i8051emu) - Intel 8051 microcontroller emulator
@@ -17787,7 +17788,7 @@
 ## reactjs 
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -18917,7 +18918,7 @@
 
 ## swift 
 
-- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw: On-device AI Agent for Phone powered by Gemma 4
+- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -19370,7 +19371,7 @@
 - [clarkmcc/go-typescript](https://github.com/clarkmcc/go-typescript) - Compile and run Typescript code natively in Go
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client
@@ -19483,7 +19484,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
 - [mike-works/typescript-fundamentals](https://github.com/mike-works/typescript-fundamentals) - Mike North's 2018 TypeScript Fundamentals Course
-- [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。https://leek.fund/
+- [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子插件，一套扩展，跑遍 VS Code 生态。实时行情贴在编辑器里，不打断编译、调试和 AI 对话。
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
@@ -20363,6 +20364,7 @@
 ## windows 
 
 - [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF) - PDF editor for Windows. Install or run portable. GPLv3. No account, no subscription, no telemetry.
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [skywind3000/GameLib](https://github.com/skywind3000/GameLib) - Single-header C++ Game Library for Beginners — no SDL/DirectX/OpenGL, no setup, just include and play.
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 "game engine" built with SDL3 with wide platform support.
 - [rhett-lee/nim_duilib](https://github.com/rhett-lee/nim_duilib) - duilib界面库的改进版，支持Windows/Linux/MacOS平台（基于SDL3），支持Skia渲染引擎（支持CPU/GPU），支持DPI感知，多语言动态切换，支持SVG, PNG, GIF, JPG, BMP, APNG, WEBP, ICO图片，支持GIF/WebP/APNG动画。
