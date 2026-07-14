@@ -673,7 +673,7 @@
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -5612,7 +5612,7 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
@@ -12638,7 +12638,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [MuShibo/Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
-- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
@@ -18086,7 +18086,7 @@
 - [kingluo/lua-resty-ffi](https://github.com/kingluo/lua-resty-ffi) - lua-resty-ffi provides an efficient and generic API to do hybrid programming in openresty/envoy with mainstream languages (Go, Python, Java, Rust, Nodejs, etc.).
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db) - TuGraph: A High Performance Graph Database.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
@@ -19345,7 +19345,7 @@
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
