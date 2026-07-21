@@ -3082,7 +3082,6 @@
 - [silenceper/pool](https://github.com/silenceper/pool) - 🚌 A golang general network connection poolction pool
 - [gittower/git-flow-next](https://github.com/gittower/git-flow-next) - A modern reimplementation of git-flow in Go that offers greater flexibility while maintaining backward compatibility with the original git-flow and git-flow-avh.
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [likaia/nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
@@ -7764,7 +7763,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
@@ -7801,7 +7800,6 @@
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
@@ -7919,7 +7917,7 @@
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
 - [NeymarL/ChineseChess-AlphaZero](https://github.com/NeymarL/ChineseChess-AlphaZero) - Implement AlphaZero/AlphaGo Zero methods on Chinese chess.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -7971,7 +7969,7 @@
 - [crossbario/autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [mar10/wsgidav](https://github.com/mar10/wsgidav) - A generic and extendable WebDAV server based on WSGI
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
@@ -8037,7 +8035,6 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [china-testing/python_cn_resouce](https://github.com/china-testing/python_cn_resouce) - python书籍免费下载；python库参考；Django、Flask、FastAPI资源大全、DevOps资源大全、python测试库资源大全。公众号：pythontesting
@@ -8408,7 +8405,7 @@
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
@@ -9023,8 +9020,10 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [googleapis/google-cloud-node-core](https://github.com/googleapis/google-cloud-node-core) - 
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [0xMALVEE/esp-studio](https://github.com/0xMALVEE/esp-studio) - ESP series software to access GPIO quickly. Install and you have your dashboard.
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [setube/ogame-vue-ts](https://github.com/setube/ogame-vue-ts) - 一个基于 Vue 3 和 TypeScript 构建的现代化 OGame 太空策略游戏
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
@@ -9131,7 +9130,7 @@
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by
 - [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas.
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
@@ -9158,6 +9157,7 @@
 - [zhandouxiaojiji/behavior3editor](https://github.com/zhandouxiaojiji/behavior3editor) - 行为树编辑器
 - [netless-io/flat-server](https://github.com/netless-io/flat-server) - A Node.js server for the Agora Flat open source classroom.
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
