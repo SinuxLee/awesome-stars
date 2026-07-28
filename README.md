@@ -75,6 +75,7 @@
 
 ## Astro 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## Awk 
@@ -1094,7 +1095,6 @@
 - [kbengine/kbengine](https://github.com/kbengine/kbengine) - A MMOG engine of server.
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [libevent/libevent](https://github.com/libevent/libevent) - Event notification library
-- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
@@ -1128,6 +1128,7 @@
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) - For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx
 - [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
 - [eleme/corvus](https://github.com/eleme/corvus) - A fast and lightweight Redis Cluster Proxy for Redis 3.0
@@ -2563,7 +2564,7 @@
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3999 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4003 LeetCode Problems (Weekly Update)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
@@ -4811,7 +4812,7 @@
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
 - [k8sp/tls](https://github.com/k8sp/tls) - TLS完全指南
-- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
+- [minekube/gate](https://github.com/minekube/gate) - Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering the production scale global Connect network. Runs with 10MB.
 - [g4zhuj/hashring](https://github.com/g4zhuj/hashring) - this is a consistent hashring implemented by go
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
@@ -5343,7 +5344,6 @@
 - [lunarmodules/luasocket](https://github.com/lunarmodules/luasocket) - Network support for the Lua language
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 - [blurymind/tilemap-editor](https://github.com/blurymind/tilemap-editor) - TileMap Editor is a fat-free tile map editor with zero dependencies and a scalable, mobile-friendly interface
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
@@ -5737,7 +5737,7 @@
 - [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
 - [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 - [robatron/sudoku.js](https://github.com/robatron/sudoku.js) - A Sudoku puzzle generator and solver JavaScript library
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
@@ -6092,7 +6092,7 @@
 - [skishore/makemeahanzi](https://github.com/skishore/makemeahanzi) - Free, open-source Chinese character data
 - [mikewesthad/navmesh](https://github.com/mikewesthad/navmesh) - A plugin for path-finding in JS using navmeshes, with wrappers for Phaser 3 and Phaser 2
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [anthonygauthier/axios-curlirize](https://github.com/anthonygauthier/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
 - [Voyzz/Fruit-store-mp](https://github.com/Voyzz/Fruit-store-mp) - 🍊微信小程序-水果商城-云开发
@@ -6598,7 +6598,7 @@
 - [sreeix/redis-proxy](https://github.com/sreeix/redis-proxy) - A Proxy for redis servers, for failover and standby handling.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
 - [tj/reds](https://github.com/tj/reds) - light-weight, insanely simple full text search module for node.js - backed by Redis
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [xuxuxu-ni/vue-xuAdmin](https://github.com/xuxuxu-ni/vue-xuAdmin) - vue+element-ui-admin 后台权限管理模板 演示地址:
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [trwalker/generator-express-rest-api](https://github.com/trwalker/generator-express-rest-api) - 
@@ -7238,7 +7238,6 @@
 - [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [moonbingbing/openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
 - [loveshell/ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf) - ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙
-- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [sumory/lor](https://github.com/sumory/lor) - a fast, minimalist web framework for lua based on OpenResty
 - [orlabs/orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 - [appwilldev/moochine](https://github.com/appwilldev/moochine) - MOOCHINE - A simple and lightweight web framework based on OpenResty(ngx_lua, http://openresty.org).
@@ -7662,6 +7661,7 @@
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [r-lyeh/single_file_libs](https://github.com/r-lyeh/single_file_libs) - List of single-file C/C++ libraries, with emphasis on clause-less licenses.
 - [NanXiao/boost-asio-network-programming-little-book](https://github.com/NanXiao/boost-asio-network-programming-little-book) - Boost.Asio network programming little book
 - [mmoaay/boost-asio-cpp-network-programming-in-chinese](https://github.com/mmoaay/boost-asio-cpp-network-programming-in-chinese) - Boost.Asio C++ Network Programming 中文版（正在重新校对中…）
@@ -7906,7 +7906,6 @@
 - [legeling/weibo_hotSearch](https://github.com/legeling/weibo_hotSearch) - 一个爬取微博热榜，并进行可视化展示及推送的小工具
 - [dataabc/weibo-crawler](https://github.com/dataabc/weibo-crawler) - 新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [aschmied/klotski-solver](https://github.com/aschmied/klotski-solver) - A short program that solves the klotski sliding block puzzle game
@@ -8611,7 +8610,7 @@
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
 - [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) - A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
 - [badboy/webdis-rs](https://github.com/badboy/webdis-rs) - A HTTP interface for Redis in &lt;100 lines of Rust
@@ -8978,6 +8977,7 @@
 
 ## TypeScript 
 
+- [Mortal-Li/cocos-creator-async](https://github.com/Mortal-Li/cocos-creator-async) - a light asynchronous game development framework based on cocos creator
 - [gongxh0901/kunpolibrary](https://github.com/gongxh0901/kunpolibrary) - 基于creator3.0+的kunpocc库
 - [u6fe0/CHFramework](https://github.com/u6fe0/CHFramework) - 专为 CocosCreator 引擎设计的轻量级 MVVM 框架，可快速构建结构清晰、可维护性高、易于扩展的项目。
 - [pavle-goloskokovic/texture-unpacker](https://github.com/pavle-goloskokovic/texture-unpacker) - 🗃️ TextureUnpacker – a Node.js tool written in TypeScript to unpack sprite sheets packed with TexturePacker into separate sprites.
@@ -9080,6 +9080,7 @@
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 Uno
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
