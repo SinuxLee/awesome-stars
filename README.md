@@ -24,7 +24,6 @@
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Go](#go)
-- [Go Template](#go-template)
 - [HTML](#html)
 - [Hack](#hack)
 - [Handlebars](#handlebars)
@@ -404,6 +403,7 @@
 - [Celtoys/Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [akimd/bison](https://github.com/akimd/bison) - GNU Bison
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+- [qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate) - duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画
 - [qq4108863/hihttps](https://github.com/qq4108863/hihttps) - hihttps是一款完整源码的高性能web应用防火墙，既支持传统WAF的所有功能如SQL注入、XSS、恶意漏洞扫描、密码暴力破解、CC、DDOS等ModSecurity正则规则，又支持无监督机器学习，自主对抗未知攻击。
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
@@ -447,7 +447,6 @@
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
 - [Manistein/dummylua-tutorial](https://github.com/Manistein/dummylua-tutorial) - 这是一个仿制lua解释器的项目，我希望通过逐步实现lua解释器的各个部分，更加深刻地掌握lua的基本结构和运作原理。
-- [MiSTer-devel/Main_MiSTer](https://github.com/MiSTer-devel/Main_MiSTer) - Main MiSTer binary and Wiki
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [theduke/quickjs-rs](https://github.com/theduke/quickjs-rs) - Rust wrapper for the quickjs Javascript engine.
 - [arcapos/luazmq](https://github.com/arcapos/luazmq) - 0MQ for Lua
@@ -1625,7 +1624,7 @@
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
-- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework based on CV models & mLLM.
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Co-op Action Roguelike in Unreal Engine C++
 - [Reputeless/PerlinNoise](https://github.com/Reputeless/PerlinNoise) - Header-only Perlin noise library for modern C++ (C++17/C++20)
@@ -1823,7 +1822,6 @@
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [ytakano/radix_tree](https://github.com/ytakano/radix_tree) - STL like container of radix tree (a.k.a. PATRICIA trie) in C++
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
-- [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
 - [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool) - BS::thread_pool: a fast, lightweight, modern, and easy-to-use C++17 / C++20 / C++23 thread pool library
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -1941,7 +1939,6 @@
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer) - 30天自制C++服务器，包含教程和源代码
 - [qicosmos/Kapok](https://github.com/qicosmos/Kapok) - 更好的序列化库，c++14开发，header-only，简洁高效。Now there is a better serialization libray:https://github.com/qicosmos/iguana please replace kapok with iguana.
-- [qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate) - duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画
 - [wapm-packages/clang](https://github.com/wapm-packages/clang) - Run Clang in WebAssembly 🎉
 - [tbfleming/cib](https://github.com/tbfleming/cib) - clang running in browser (wasm)
 - [netcan/asyncio](https://github.com/netcan/asyncio) - asyncio is a c++20 library to write concurrent code using the async/await syntax.
@@ -1993,6 +1990,7 @@
 - [4paradigm/pskiplist](https://github.com/4paradigm/pskiplist) - An implementation of the persistent skiplist based on Intel Optane Persistent Memory. It is with Intel's pmemkv as an storage engine
 - [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) - A single file C++ header-only PEG (Parsing Expression Grammars) library
 - [daminetreg/lib-tftp-server](https://github.com/daminetreg/lib-tftp-server) - TFTP server implemetation in C++ : Boost.ASIO + Boost.Spirit Based, header only and trivial.
+- [MiSTer-devel/Main_MiSTer](https://github.com/MiSTer-devel/Main_MiSTer) - Main MiSTer binary and Wiki
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [tidwall/rocksdb-server](https://github.com/tidwall/rocksdb-server) - Fast Redis clone written in C using RocksDB as a backend.
 - [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
@@ -2161,7 +2159,7 @@
 - [suryanathan/etcdcpp](https://github.com/suryanathan/etcdcpp) - C++ language binding for etcd v2.2.0 (JSON library agnostic)
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [axmolengine/axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games. (a fork of Cocos2d-x-4.0)
+- [axmolengine/axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -3065,6 +3063,7 @@
 
 ## Go 
 
+- [ewhauser/gbash](https://github.com/ewhauser/gbash) - Pure Go bash implementation for agent sandboxes
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [edsrzf/mmap-go](https://github.com/edsrzf/mmap-go) - A portable mmap package for Go
 - [go-cmd/cmd](https://github.com/go-cmd/cmd) - Non-blocking external commands in Go with streaming output
@@ -3434,7 +3433,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework.
 - [rzrbld/adminio-api](https://github.com/rzrbld/adminio-api) - simple admin API for min.io (minio) s3 server
@@ -4150,7 +4149,7 @@
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
 - [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
 - [caarlos0/jsonfmt](https://github.com/caarlos0/jsonfmt) - Like gofmt, but for JSON files.
-- [pyq0109/mirgo](https://github.com/pyq0109/mirgo) - 
+- [pyq0109/mirgo](https://github.com/pyq0109/mirgo) - 用 Go 语言重新实现热血传奇客户端和服务端
 - [dropbox/godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
 - [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - Adaptive Radix Trees implemented in Go
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
@@ -5284,10 +5283,6 @@
 - [jhump/protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers
 - [aclements/go-gcstats](https://github.com/aclements/go-gcstats) - Go runtime GC trace analysis and statistics tool
 
-## Go Template 
-
-- [jx-sec/jxwaf](https://github.com/jx-sec/jxwaf) - JXWAF是一款基于AI大模型的Web应用防火墙
-
 ## HTML 
 
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
@@ -5869,6 +5864,7 @@
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [siteserver/cms](https://github.com/siteserver/cms) - SSCMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。链接是SSCMS推出的全新AI视频开源社区：献丑AI
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -8192,6 +8188,7 @@
 - [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -8928,7 +8925,6 @@
 ## Svelte 
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
@@ -9853,6 +9849,7 @@
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [iGeeky/wolf](https://github.com/iGeeky/wolf) - Wolf is an authentication and authorization system based on Role-Based Access Control (RBAC) for http applications or http restful apis.  Wolf是一个基于角色访问控制（RBAC）的认证和授权系统，适用于http应用或http restful api
+- [jx-sec/jxwaf](https://github.com/jx-sec/jxwaf) - JXWAF是一款基于AI大模型的Web应用防火墙
 
 ## Zig 
 
