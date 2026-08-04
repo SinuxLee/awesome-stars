@@ -214,7 +214,6 @@
 - [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse serv
 - [ctripcorp/Redis-On-Rocks](https://github.com/ctripcorp/Redis-On-Rocks) - Redis in CTRIP
 - [neeker/sqlrestful](https://github.com/neeker/sqlrestful) - Use SQL & Javascript to develop MicroServices of CloudNative
-- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [koll1009/RillServer](https://github.com/koll1009/RillServer) - 
 - [lf723/mushroom](https://github.com/lf723/mushroom) - game server framework base on skynet
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
@@ -232,6 +231,7 @@
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [vozlt/nginx-module-sts](https://github.com/vozlt/nginx-module-sts) - Nginx stream server traffic status module
 - [vozlt/nginx-module-stream-sts](https://github.com/vozlt/nginx-module-stream-sts) - Nginx stream server traffic status core module
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv) - A very simple and easy to understand RISC-V core.
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [cadenji/foolrenderer](https://github.com/cadenji/foolrenderer) - A tiny software renderer implemented from scratch without the use of graphics API, used to understand how GPUs work.
@@ -1274,7 +1274,6 @@
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for interacting with command-line interfaces
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 - [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
@@ -2919,7 +2918,7 @@
 
 ## Cuda 
 
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
 - [ArchaeaSoftware/cudahandbook](https://github.com/ArchaeaSoftware/cudahandbook) - Source code that accompanies The CUDA Handbook.
 - [brucefan1983/CUDA-Programming](https://github.com/brucefan1983/CUDA-Programming) - Sample codes for my CUDA programming book
 - [xgqdut2016/cuda_code](https://github.com/xgqdut2016/cuda_code) - easy cuda code
@@ -6088,7 +6087,7 @@
 - [skishore/makemeahanzi](https://github.com/skishore/makemeahanzi) - Free, open-source Chinese character data
 - [mikewesthad/navmesh](https://github.com/mikewesthad/navmesh) - A plugin for path-finding in JS using navmeshes, with wrappers for Phaser 3 and Phaser 2
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, conformant, and unusually versatile. No protoc required.
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [anthonygauthier/axios-curlirize](https://github.com/anthonygauthier/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
 - [Voyzz/Fruit-store-mp](https://github.com/Voyzz/Fruit-store-mp) - 🍊微信小程序-水果商城-云开发
@@ -8567,6 +8566,7 @@
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
@@ -9050,7 +9050,7 @@
 - [TooTallNate/proxy-agents](https://github.com/TooTallNate/proxy-agents) - Node.js HTTP Proxy Agents Monorepo
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
