@@ -355,6 +355,7 @@
 
 ## 3d 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [ekzhang/graphics-workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders!
 - [hexianWeb/island](https://github.com/hexianWeb/island) - A 2.5D style portfolio build by Threejs. (一个 3D 风格的 Threejs 个人简历)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
@@ -2651,7 +2652,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
-- [unix/func](https://github.com/unix/func) - Tiny typed CLI framework
+- [unix/func](https://github.com/unix/func) - Build CLIs like TypeScript applications.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [acarl005/ls-go](https://github.com/acarl005/ls-go) - A more colorful, user-friendly implementation of `ls` written in Go
@@ -5100,7 +5101,7 @@
 - [wingcd/go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) - a tool for parse xlsx and export to other fomart and data, such as: protobuf3 file and buffers, golang, csharp and so on
 - [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
 - [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games. (mirror)
-- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，游戏热更新，配置表自动化仓库，游戏通用工具等等。包含游戏服，跨服，匹配服，后台管理系统等实现，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
+- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，异步持久化方案，游戏热更新，配置表自动化仓库，游戏通用工具等等，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
 - [mr-kelly/KSFramework](https://github.com/mr-kelly/KSFramework) - QQ Group：538722494，KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 - [yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。
 - [JasonXuDeveloper/JEngine](https://github.com/JasonXuDeveloper/JEngine) - The solution that allows unity games to update in runtime. 使Unity开发的游戏支持热更新的解决方案。
@@ -5115,7 +5116,7 @@
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 - [jzyong/GameServer4g](https://github.com/jzyong/GameServer4g) - Distributed game server
-- [changnet/py_exceltools](https://github.com/changnet/py_exceltools) - convert excel to lua、xml、json with python
+- [changnet/exceltools](https://github.com/changnet/exceltools) - convert excel to lua、xml、json with python
 - [changnet/MServer](https://github.com/changnet/MServer) - Mini Distributed Game Server
 - [dontpanic92/OpenPAL3](https://github.com/dontpanic92/OpenPAL3) - 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3
 - [sundream/aoi](https://github.com/sundream/aoi) - 九宫格和十字链表两种实现
@@ -8247,7 +8248,7 @@
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68974, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -8839,7 +8840,7 @@
 - [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [youlanhai/ExcelToCode](https://github.com/youlanhai/ExcelToCode) - 将Excel表转换成Python, Lua, json数据表，自动生成java类。
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，游戏热更新，配置表自动化仓库，游戏通用工具等等。包含游戏服，跨服，匹配服，后台管理系统等实现，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
+- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，异步持久化方案，游戏热更新，配置表自动化仓库，游戏通用工具等等，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
 - [blade-build/blade-build](https://github.com/blade-build/blade-build) - Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...
 - [SwingFrog/Summer](https://github.com/SwingFrog/Summer) - 这是一个轻量级的、一站式的java游戏服务器框架，也可用于开发简单的web服务。基于netty实现了高性能通讯，支持tcp、http、websocket等协议，支持protobuf、json两种数据格式，支持以配置的形式轻松开启多端口网络服务。支持RPC远程调用，支持以优雅的方式实现远程调用，支持调用超时重试、幂等调用。封装了持久化层，提供数据访问和数据落地接口，支持异步新增、保存、删除数据，支持
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
@@ -9112,7 +9113,7 @@
 - [jd-opensource/taro-ui](https://github.com/jd-opensource/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 - [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger) - Beautify Axios Logging Messages
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, conformant, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant through Edition 2024, and unusually versatile. No protoc required.
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [anthonygauthier/axios-curlirize](https://github.com/anthonygauthier/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
@@ -9585,7 +9586,7 @@
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [neil3d/excel2json](https://github.com/neil3d/excel2json) - 把Excel表转换成json对象，并保存到一个文本文件中。
-- [changnet/py_exceltools](https://github.com/changnet/py_exceltools) - convert excel to lua、xml、json with python
+- [changnet/exceltools](https://github.com/changnet/exceltools) - convert excel to lua、xml、json with python
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [IBM/report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
@@ -10329,7 +10330,7 @@
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68974, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [klaussilveira/qengine](https://github.com/klaussilveira/qengine) - Retro game engine for creating games like it's 1997
@@ -10594,7 +10595,7 @@
 - [jwcpp/jwEngine](https://github.com/jwcpp/jwEngine) - A cross-platform C++&lt;-&gt;lua server quick solution
 - [r-lyeh/v1](https://github.com/r-lyeh/v1) - 💎 3D game framework in C, v1.
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-- [changnet/py_exceltools](https://github.com/changnet/py_exceltools) - convert excel to lua、xml、json with python
+- [changnet/exceltools](https://github.com/changnet/exceltools) - convert excel to lua、xml、json with python
 - [changnet/MServer](https://github.com/changnet/MServer) - Mini Distributed Game Server
 - [leandromoreira/lua-resty-perf](https://github.com/leandromoreira/lua-resty-perf) - A small ngx resty lua library to benchmark memory and throughput of a function.
 - [bajdcc/GameFramework](https://github.com/bajdcc/GameFramework) - 简易游戏框架，整合D2D和Lua
@@ -11096,6 +11097,7 @@
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestra
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -11665,6 +11667,7 @@
 
 ## nextjs 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
@@ -12475,7 +12478,6 @@
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
@@ -17373,7 +17375,7 @@
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
 - [r-lyeh/v1](https://github.com/r-lyeh/v1) - 💎 3D game framework in C, v1.
-- [changnet/py_exceltools](https://github.com/changnet/py_exceltools) - convert excel to lua、xml、json with python
+- [changnet/exceltools](https://github.com/changnet/exceltools) - convert excel to lua、xml、json with python
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
@@ -18871,6 +18873,7 @@
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [ultimatepp/ultimatepp](https://github.com/ultimatepp/ultimatepp) - U++ is a C++ cross-platform rapid application development framework focused on programmer's productivity. It includes a set of libraries (GUI, SQL, Network etc.), and integrated development environmen
@@ -19420,6 +19423,7 @@
 - [soonfx-engine/core](https://github.com/soonfx-engine/core) - 🎮 TypeScript game numeric engine for RPG & strategy games. Zero dependencies, type-safe formula parsing, battle system simulation, and expression evaluation.  基于 TypeScript 的游戏数值引擎，专为 RPG 和策略游戏设计。零依赖、
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -19539,7 +19543,7 @@
 - [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
 - [linmasahiro/vue3-table-lite](https://github.com/linmasahiro/vue3-table-lite) - A simple and lightweight data table component for Vue.js 3. Features sorting, paging, row check, dynamic data rendering, supported TypeScript, and more.
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, conformant, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant through Edition 2024, and unusually versatile. No protoc required.
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter :coffee:
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
@@ -19841,7 +19845,7 @@
 - [QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - Unity Post Processing Stack Library | Unity引擎的高品质后处理库
 - [wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET) - 基于ET框架致敬LOL的Moba游戏，提供完整的状态帧同步框架，包含预测回滚逻辑，基于双端行为树的技能系统，更多精彩等你发现！Based on the ET framework, we pay tribute to LOL's Moba game, providing a complete state frame synchronization framework, including predi
 - [vinjn/pkg-doctor](https://github.com/vinjn/pkg-doctor) - 包体医生，Unity 及 Unreal 游戏包体优化工具
-- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，游戏热更新，配置表自动化仓库，游戏通用工具等等。包含游戏服，跨服，匹配服，后台管理系统等实现，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
+- [kingston-csj/jforgame](https://github.com/kingston-csj/jforgame) - jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，异步持久化方案，游戏热更新，配置表自动化仓库，游戏通用工具等等，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
 - [mr-kelly/KSFramework](https://github.com/mr-kelly/KSFramework) - QQ Group：538722494，KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 - [yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。
 - [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
@@ -20736,7 +20740,7 @@
 - [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
-- [changnet/py_exceltools](https://github.com/changnet/py_exceltools) - convert excel to lua、xml、json with python
+- [changnet/exceltools](https://github.com/changnet/exceltools) - convert excel to lua、xml、json with python
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Fast streaming XML parser written in C99 with &gt;90% test coverage; moved from SourceForge to GitHub
