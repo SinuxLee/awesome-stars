@@ -2560,7 +2560,7 @@
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4003 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4013 LeetCode Problems (Weekly Update)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
@@ -4198,7 +4198,7 @@
 - [golang/perf](https://github.com/golang/perf) - [mirror] Performance measurement, storage, and analysis.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
@@ -5215,7 +5215,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [go-zoo/bone](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
@@ -5291,6 +5291,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
+- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
@@ -5328,6 +5329,7 @@
 - [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [remobile/react-native-cocos2dx](https://github.com/remobile/react-native-cocos2dx) - A react-native wrapper cocos2d-html5
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [strangeioc/strangeioc](https://github.com/strangeioc/strangeioc) - The IoC/Binding Framework for Unity3D and C#
@@ -5743,7 +5745,7 @@
 - [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) - Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages.
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)
 - [SimonAKing/HomePage](https://github.com/SimonAKing/HomePage) - A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions
 - [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -5882,7 +5884,6 @@
 - [benvanik/WebGL-Inspector](https://github.com/benvanik/WebGL-Inspector) - An advanced WebGL debugging toolkit
 - [ghoulsblade/love-webplayer](https://github.com/ghoulsblade/love-webplayer) - WebPlayer for Love2D engine games (webgl+javascript)
 - [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.5)
-- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [Aaaaaaaty/bezierMaker.js](https://github.com/Aaaaaaaty/bezierMaker.js) - arbitrary order bézier-curve generator
 - [allanguys/font-spider-plus](https://github.com/allanguys/font-spider-plus) - font-spider-plus（字蛛+）是一个智能 WebFont 压缩工具，它能自动分析出本地页面和线上页面使用的 WebFont 并进行按需压缩。
 - [ApowoGames/FairyGUI-Phaser](https://github.com/ApowoGames/FairyGUI-Phaser) - Fariygui for Phaser3
@@ -7692,7 +7693,6 @@
 
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
@@ -8088,7 +8088,7 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
+- [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [NaNShaner/repoll](https://github.com/NaNShaner/repoll) - Redis管理平台Repoll，现已开源，基于redis3.x，支持单机、哨兵以及集群模式
