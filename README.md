@@ -47,6 +47,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1523,7 +1524,6 @@
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [andreasbuhr/cppcoro](https://github.com/andreasbuhr/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
@@ -3063,7 +3063,7 @@
 ## Go 
 
 - [ewhauser/gbash](https://github.com/ewhauser/gbash) - Pure Go bash implementation for agent sandboxes
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [edsrzf/mmap-go](https://github.com/edsrzf/mmap-go) - A portable mmap package for Go
 - [go-cmd/cmd](https://github.com/go-cmd/cmd) - Non-blocking external commands in Go with streaming output
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
@@ -4198,7 +4198,7 @@
 - [golang/perf](https://github.com/golang/perf) - [mirror] Performance measurement, storage, and analysis.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
@@ -6918,7 +6918,6 @@
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua
 - [nidorx/ecs-lua](https://github.com/nidorx/ecs-lua) - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
-- [GameFrameX/GameFrameX](https://github.com/GameFrameX/GameFrameX) - Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+ProtoBuff+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
 - [cloudflare/raven-lua](https://github.com/cloudflare/raven-lua) - A Lua interface to Sentry
 - [kikito/lua-sandbox](https://github.com/kikito/lua-sandbox) - A lua sandbox for executing non-trusted code
 - [26F-Studio/Techmino](https://github.com/26F-Studio/Techmino) - Techmino:方块研究所唯一官方仓库(Github)
@@ -7313,6 +7312,7 @@
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
 - [wqaetly/ET](https://github.com/wqaetly/ET) - ET + hybridlcr + YooAsset + luban + FGUI + NKGMoba + UniTask
+- [GameFrameX/GameFrameX](https://github.com/GameFrameX/GameFrameX) - Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+ProtoBuff+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [CCBP/NUEDC_Topic](https://github.com/CCBP/NUEDC_Topic) - 收集并整理了全国大学生电子设计竞赛从1994年至2025年的历年赛题，如有遗漏欢迎补充！
@@ -8058,7 +8058,7 @@
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -8403,6 +8403,10 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
+## QML 
+
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 
 ## Ruby 
 
@@ -8820,6 +8824,7 @@
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [jzyong/GameDevAndOps](https://github.com/jzyong/GameDevAndOps) - 网络游戏服务器开发技术，游戏开发中项目自定义工具开发及使用，服务器运维部署相关技术。书籍地址：https://jzyong.github.io/GameDevAndOps
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [fevin/diffdir](https://github.com/fevin/diffdir) - use diff and vimdiff to diff dir
 - [zhangguanzhang/Kubernetes-ansible](https://github.com/zhangguanzhang/Kubernetes-ansible) - :christmas_tree:ansible多网卡机器上一键部署高可用Kubernetes(systemd)
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
@@ -9283,7 +9288,6 @@
 - [xzben/behavior3_ts](https://github.com/xzben/behavior3_ts) - behavior3 typescript 实现
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [lvjincheng1998/MapEditor](https://github.com/lvjincheng1998/MapEditor) - Cocos Creator 插件 --- 游戏地图矩阵编辑器。内含 TS 地图组件以及应用 Demo 。
