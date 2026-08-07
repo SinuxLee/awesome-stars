@@ -2410,7 +2410,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -2803,7 +2803,6 @@
 
 - [skywind3000/GameLib](https://github.com/skywind3000/GameLib) - Single-header C++ Game Library for Beginners — no SDL/DirectX/OpenGL, no setup, just include and play.
 - [apache/rocketmq-clients](https://github.com/apache/rocketmq-clients) - RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [cloudfreexiao/pluto](https://github.com/cloudfreexiao/pluto) - skynet 以 CMake 方式组织工程的跨平台的实现.
 - [johnBuffer/AntSimulator](https://github.com/johnBuffer/AntSimulator) - Simple Ants simulator
@@ -6163,7 +6162,7 @@
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [deuill/go-php](https://github.com/deuill/go-php) - PHP bindings for the Go programming language (Golang)
 - [z7zmey/php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
 - [karldoenitz/Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
@@ -7132,7 +7131,7 @@
 - [coldnight/go-memory-allocator-visual-guide](https://github.com/coldnight/go-memory-allocator-visual-guide) - Go 语言内存分配可视化指南（A visual guide to Go Memory Allocator from scratch (Golang)）
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [karldoenitz/Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
@@ -8455,7 +8454,7 @@
 - [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [mailgun/kafka-pixy](https://github.com/mailgun/kafka-pixy) - gRPC/REST proxy for Kafka
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat
 - [jwcpp/jwEngine](https://github.com/jwcpp/jwEngine) - A cross-platform C++&lt;-&gt;lua server quick solution
@@ -11374,7 +11373,7 @@
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
 - [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console-based JVM monitoring tool
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
@@ -12442,7 +12441,7 @@
 ## others 
 
 - [ewhauser/gbash](https://github.com/ewhauser/gbash) - Pure Go bash implementation for agent sandboxes
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [Mortal-Li/cocos-creator-async](https://github.com/Mortal-Li/cocos-creator-async) - a light asynchronous game development framework based on cocos creator
 - [gongxh0901/kunpolibrary](https://github.com/gongxh0901/kunpolibrary) - 基于creator3.0+的kunpocc库
 - [u6fe0/CHFramework](https://github.com/u6fe0/CHFramework) - 专为 CocosCreator 引擎设计的轻量级 MVVM 框架，可快速构建结构清晰、可维护性高、易于扩展的项目。
@@ -17240,7 +17239,7 @@
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -19179,7 +19178,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console-based JVM monitoring tool
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
@@ -20298,7 +20297,7 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [mix-go/mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
