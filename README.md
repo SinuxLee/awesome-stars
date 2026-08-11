@@ -1149,7 +1149,7 @@
 ## C# # 
 
 - [TippingGame/F8Framework](https://github.com/TippingGame/F8Framework) - F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的游戏框架，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。F8 Framework is an elegant, lightweight, and intuitive game framework based on the Unity engine. Its components are centered arou
-- [sunsvip/GF_X](https://github.com/sunsvip/GF_X) - Unity GameFramework + HybridCLR热更，Obfuz代码加固，支持WebGL(小游戏)热更。高效率、高性能、懒人必备、防加班神器、简单易用、规范化、自动化的开发工作流。
+- [sunsvip/GF_X](https://github.com/sunsvip/GF_X) - Unity GameFramework + HybridCLR热更，Obfuz代码加固，兼容WebGL(小游戏)热更。融入AI功能、高效率、高性能、简单易用、规范化、自动化的开发工作流。
 - [DrFlower/TowerDefense-GameFramework-Demo](https://github.com/DrFlower/TowerDefense-GameFramework-Demo) - 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo
 - [Cysharp/ZString](https://github.com/Cysharp/ZString) - Zero Allocation StringBuilder for .NET and Unity.
 - [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
@@ -2327,7 +2327,7 @@
 - [hmartiro/redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis
 - [PardCode/CPP-3D-Game-Tutorial-Series](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series) - C++ 3D Game Tutorial Series (DirectX) - Learn to code a DirectX 3D Game in C++ from scratch
 - [google/marl](https://github.com/google/marl) - A hybrid thread / fiber task scheduler written in C++ 11
-- [mariusbancila/croncpp](https://github.com/mariusbancila/croncpp) - A C++11/14/17 header-only cross-platform library for handling CRON expressions
+- [mariusbancila/croncpp](https://github.com/mariusbancila/croncpp) - A C++ header-only cross-platform library for handling CRON expressions
 - [stijnherfst/HiveWE](https://github.com/stijnherfst/HiveWE) - A Warcraft III world editor.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [rathena/rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
@@ -6565,7 +6565,7 @@
 - [ali-sdk/ali-oss](https://github.com/ali-sdk/ali-oss) - Aliyun OSS(Object Storage Service) JavaScript SDK for the Browser and Node.js
 - [zx6733090/TigerCurve](https://github.com/zx6733090/TigerCurve) - 生成运行曲线函数（老虎机核心算法）
 - [zx6733090/SixClear](https://github.com/zx6733090/SixClear) - :star2:六边形消除
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 - [WhoIsYourBaby/chess](https://github.com/WhoIsYourBaby/chess) - 使用pomelo+CocosCreator开发的棋牌游戏集
 - [kriskowal/asap](https://github.com/kriskowal/asap) - High-priority task queue for Node.js and browsers
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -7900,7 +7900,6 @@
 - [dataabc/weibo-crawler](https://github.com/dataabc/weibo-crawler) - 新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [aschmied/klotski-solver](https://github.com/aschmied/klotski-solver) - A short program that solves the klotski sliding block puzzle game
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -8803,7 +8802,7 @@
 - [magnific0/wondershaper](https://github.com/magnific0/wondershaper) - Command-line utility for limiting an adapter's bandwidth
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
-- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [meetbill/op_practice_book](https://github.com/meetbill/op_practice_book) - 📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah
@@ -9092,6 +9091,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [thkruz/keeptrack.space](https://github.com/thkruz/keeptrack.space) - 🌎📡 TypeScript Astrodynamics Software for Non-Engineers. 3D Visualization of satellite data and the sensors that track them.
+- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
@@ -9793,7 +9793,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
-- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [ArcherGu/fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vite + Vue + Electron + Nestjs with rolldown, crazy fast! ⚡
