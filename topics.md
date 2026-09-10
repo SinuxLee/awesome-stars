@@ -357,7 +357,7 @@
 
 ## 3d 
 
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [ekzhang/graphics-workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders!
 - [hexianWeb/island](https://github.com/hexianWeb/island) - A 2.5D style portfolio build by Threejs. (一个 3D 风格的 Threejs 个人简历)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
@@ -472,6 +472,7 @@
 - [partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) - 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -673,6 +674,7 @@
 
 ## ai-agents 
 
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -684,6 +686,7 @@
 - [indiesoftby/defold-agent-config](https://github.com/indiesoftby/defold-agent-config) - An example configuration of AGENTS.md and a set of skills for AI-assisted game development with the https://defold.com engine.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
@@ -701,7 +704,7 @@
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
@@ -762,7 +765,7 @@
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [deepgrace/monster](https://github.com/deepgrace/monster) - The Art of Template MetaProgramming (TMP) in Modern C++♦️
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4046 LeetCode Problems (Weekly Update)
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
 - [colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) - 系统性的 PHP 技术面试问答大全（面经）。涵盖 PHP8、MySQL、Redis、Nginx、系统设计、算法、Laravel 源码及高并发架构原理，助你斩获后端研发 Offer。PHP Interview Questions & Answers.
 - [kangjianwei/Data-Structure](https://github.com/kangjianwei/Data-Structure) - 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
@@ -823,7 +826,7 @@
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [golang-design/lockfree](https://github.com/golang-design/lockfree) - ⚡️ Lock-free and wait-free concurrent data structures for Go (generics)
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4046 LeetCode Problems (Weekly Update)
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [MichaelJWelsh/cdsa](https://github.com/MichaelJWelsh/cdsa) - A library of generic intrusive data structures and algorithms in ANSI C
@@ -863,6 +866,7 @@
 
 ## android 
 
+- [lkimuk/ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [vsaint1/golias-engine](https://github.com/vsaint1/golias-engine) - A C++ 20 game engine built with wide platform support.
@@ -2224,6 +2228,7 @@
 
 ## claude 
 
+- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
@@ -2262,6 +2267,7 @@
 
 ## claude-code 
 
+- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -3072,7 +3078,7 @@
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4046 LeetCode Problems (Weekly Update)
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
 - [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and i
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
@@ -3532,6 +3538,7 @@
 
 ## data-visualization 
 
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
@@ -3993,7 +4000,7 @@
 - [apache/apisix-docker](https://github.com/apache/apisix-docker) - the docker for Apache APISIX
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [obukhov/redis-inventory](https://github.com/obukhov/redis-inventory) - CLI tool to see redis memory usage by keys in hierarchical way. Think of disk inventory but for redis.
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Open-source application runtime for the AI coding era. Deploy, operate and deliver AI-generated or traditional apps on your own servers or Kubernetes.
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond is an AI application runtime platform.  Its core capabilities are 100% open source. Rainbond provides a unified platform for running and managing AI-generated projects, large language model s
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
@@ -4123,6 +4130,7 @@
 
 ## docker 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -4979,7 +4987,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
 - [CatLib/Core](https://github.com/CatLib/Core) - CatLib lightweight dependency injection container
 - [ylmbtm/LuaServerFrame](https://github.com/ylmbtm/LuaServerFrame) - 将原来的框架改为使用lua作为开发语言
@@ -5459,7 +5467,7 @@
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 - [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
-- [axmolengine/axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games.
+- [axmolengine/axmol](https://github.com/axmolengine/axmol) - Axmol – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -5834,6 +5842,7 @@
 
 ## go 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
@@ -6710,6 +6719,7 @@
 
 ## golang 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [go-cmd/cmd](https://github.com/go-cmd/cmd) - Non-blocking external commands in Go with streaming output
@@ -8205,9 +8215,8 @@
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) - Exporter for Consul metrics
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-- [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [nestjs/swagger](https://github.com/nestjs/swagger) - OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -9017,7 +9026,7 @@
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
-- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client
+- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS 2 client library for Node.js, with browser integration
 - [mololab/json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT / Gemma / Mixtral / llama + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / Gemma / Mixtral
 - [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
@@ -9780,6 +9789,7 @@
 
 ## kubernetes 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -9866,7 +9876,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Open-source application runtime for the AI coding era. Deploy, operate and deliver AI-generated or traditional apps on your own servers or Kubernetes.
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond is an AI application runtime platform.  Its core capabilities are 100% open source. Rainbond provides a unified platform for running and managing AI-generated projects, large language model s
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system. (CNCF Project)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -10124,6 +10134,7 @@
 
 ## linux 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [skywind3000/GameLib](https://github.com/skywind3000/GameLib) - Single-header C++ Game Library for Beginners — no SDL/DirectX/OpenGL, no setup, just include and play.
@@ -10407,7 +10418,6 @@
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-- [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
@@ -10445,7 +10455,7 @@
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
@@ -11168,7 +11178,7 @@
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestra
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -11745,7 +11755,7 @@
 
 ## nextjs 
 
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
@@ -11888,7 +11898,7 @@
 - [koajs/koa-redis](https://github.com/koajs/koa-redis) - Redis storage for Koa session middleware/cache with Sentinel and Cluster support
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
@@ -11933,7 +11943,7 @@
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!
 - [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
 - [jaywcjlove/pinyin-font](https://github.com/jaywcjlove/pinyin-font) - 宝宝字帖拼音字体，提供拼音和拼音音标笔顺字体
-- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client
+- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS 2 client library for Node.js, with browser integration
 - [mololab/json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT / Gemma / Mixtral / llama + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / Gemma / Mixtral
 - [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 - [kingluo/lua-resty-ffi](https://github.com/kingluo/lua-resty-ffi) - lua-resty-ffi provides an efficient and generic API to do hybrid programming in openresty/envoy with mainstream languages (Go, Python, Java, Rust, Nodejs, etc.).
@@ -12025,7 +12035,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
-- [cabloy/cabloy](https://github.com/cabloy/cabloy) - 🚀 Cabloy is a Node.js fullstack framework for AI vibe coding. Bidirectional type sync, CLI-first workflows, docs, and skills.
+- [cabloy/cabloy](https://github.com/cabloy/cabloy) - Cabloy is a Node.js fullstack framework for AI vibe coding, with AI Spec-Driven Development for traceable, evidence-backed delivery.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [bytenode/bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -12266,6 +12276,7 @@
 
 ## open-source 
 
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF) - Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open passwo
@@ -12463,7 +12474,7 @@
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
-- [axmolengine/axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games.
+- [axmolengine/axmol](https://github.com/axmolengine/axmol) - Axmol – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games.
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you ever
@@ -12523,6 +12534,8 @@
 
 ## others 
 
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+- [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO) - EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [palemoky/fight-the-landlord](https://github.com/palemoky/fight-the-landlord) - 🃏 让斗地主回归纯粹 - 无控牌，真公平
@@ -12571,6 +12584,7 @@
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
+- [RunanywhereAI/wally](https://github.com/RunanywhereAI/wally) - Get up and running with GLM-5.3-flash, DeepSeek, Qwen, Gemma and other open source frontier models.
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - An open-source implementation of uTools, a high-performance, scalable application launcher and plugin platform | Supports macOS and Windows, 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
@@ -12788,7 +12802,7 @@
 - [zchee/cuda-sample](https://github.com/zchee/cuda-sample) - CUDA official sample codes
 - [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 - [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - 
-- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+- [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [synthetichealth/synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 - [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
@@ -16255,7 +16269,7 @@
 - [smallnest/rediscopy](https://github.com/smallnest/rediscopy) - copy redis requests to other servers
 - [smasher164/mem](https://github.com/smasher164/mem) - A memory allocator for Go.
 - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - :thumbsup: Vue.js 源码分析
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
@@ -17042,6 +17056,7 @@
 
 ## productivity 
 
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -17255,7 +17270,7 @@
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -17538,7 +17553,7 @@
 - [lining0806/PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) - Python入门网络爬虫之精华版
 - [appleseedhq/appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4046 LeetCode Problems (Weekly Update)
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
@@ -17710,7 +17725,6 @@
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -17769,6 +17783,7 @@
 
 ## react 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
@@ -18077,6 +18092,7 @@
 
 ## reverse-engineering 
 
+- [lkimuk/ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
 - [mildsunrise/protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - 🕵️ Tool to reverse-engineer Protocol Buffers with unknown definition
@@ -18117,7 +18133,7 @@
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [chvmp/champ](https://github.com/chvmp/champ) - MIT Cheetah I Implementation
-- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client
+- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS 2 client library for Node.js, with browser integration
 - [MRPT/mrpt](https://github.com/MRPT/mrpt) - :zap: The Mobile Robot Programming Toolkit (MRPT)
 - [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) - 开源机器人学学习指南
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -18159,7 +18175,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -18515,6 +18531,7 @@
 
 ## security-tools 
 
+- [lkimuk/ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -18603,7 +18620,7 @@
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Open-source application runtime for the AI coding era. Deploy, operate and deliver AI-generated or traditional apps on your own servers or Kubernetes.
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Rainbond is an AI application runtime platform.  Its core capabilities are 100% open source. Rainbond provides a unified platform for running and managing AI-generated projects, large language model s
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -19454,7 +19471,6 @@
 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
-- [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI) - Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
@@ -19542,7 +19558,7 @@
 - [soonfx-engine/core](https://github.com/soonfx-engine/core) - 🎮 TypeScript game numeric engine for RPG & strategy games. Zero dependencies, type-safe formula parsing, battle system simulation, and expression evaluation.  基于 TypeScript 的游戏数值引擎，专为 RPG 和策略游戏设计。零依赖、
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
@@ -19581,7 +19597,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
-- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client
+- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS 2 client library for Node.js, with browser integration
 - [mololab/json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT / Gemma / Mixtral / llama + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / Gemma / Mixtral
 - [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
@@ -20337,7 +20353,7 @@
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [L-Chris/vue-design](https://github.com/L-Chris/vue-design) - Be the best website visualization builder with Vue and Electron.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
 - [eeg1412/wikimoeCardByNodeJS](https://github.com/eeg1412/wikimoeCardByNodeJS) - 一款由玩家自由DIY卡牌的卡牌收集游戏！
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
@@ -20411,7 +20427,7 @@
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
-- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client
+- [RobotWebTools/rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS 2 client library for Node.js, with browser integration
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
@@ -20577,6 +20593,8 @@
 
 ## windows 
 
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 - [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF) - Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open passwo
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [skywind3000/GameLib](https://github.com/skywind3000/GameLib) - Single-header C++ Game Library for Beginners — no SDL/DirectX/OpenGL, no setup, just include and play.
