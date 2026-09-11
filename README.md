@@ -1687,7 +1687,7 @@
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [holywyvern/love-ws](https://github.com/holywyvern/love-ws) - A löve websocket library
-- [esrrhs/hookso](https://github.com/esrrhs/hookso) - linux动态链接库的注入修改查找工具 A tool for injection, modification and search of linux dynamic link library
+- [esrrhs/hookso](https://github.com/esrrhs/hookso) - A tool for injection, modification and search of linux dynamic link library
 - [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
@@ -3133,7 +3133,7 @@
 - [tinne26/bindless](https://github.com/tinne26/bindless) - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
 - [ebitenui/ebitenui](https://github.com/ebitenui/ebitenui) - User interface engine and widget library for Ebitengine
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A powerful, lightweight, self-hosted personal finance app that is easy to use.
 - [levigross/grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library
 - [ozanh/ugo](https://github.com/ozanh/ugo) - Script Language for Go
 - [1set/starlet](https://github.com/1set/starlet) - ✨ Yet another Go wrapper for Starlark that simplifies usage, offers data conversion and useful Starlark libraries
@@ -5101,7 +5101,6 @@
 - [mailru/easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
-- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [yookoala/gofast](https://github.com/yookoala/gofast) - gofast is a FastCGI "client" library written purely in go
@@ -5390,8 +5389,8 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a si
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [15873151474fan/legends](https://github.com/15873151474fan/legends) - 类传奇页游，渣渣辉。二开，代理加微信s316180
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports 
@@ -5683,7 +5682,7 @@
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [ctripcorp/x-pipe](https://github.com/ctripcorp/x-pipe) - X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心、跨公网数据复制，并且提供一键机房切换，复制监控、异常报警等功能。开源版本和携程内部生产环境版本一致。
-- [esrrhs/majiang_algorithm](https://github.com/esrrhs/majiang_algorithm) - 麻将胡牌算法以及AI算法
+- [esrrhs/majiang_algorithm](https://github.com/esrrhs/majiang_algorithm) - A blazing-fast Java library for Mahjong game logic, providing millisecond-level win detection, waiting-hand calculation, and AI-powered discard strategy with wildcard tile support.
 - [zuoge85/game-lib](https://github.com/zuoge85/game-lib) - 游戏基础包
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
@@ -6162,7 +6161,7 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [YKPublicGame/ball](https://github.com/YKPublicGame/ball) - 球球大作战，前端分h5、u3d版，后端skynet
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
-- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 【免费社区版】【企业版】Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 【免费社区版】【企业版】Webfunny是一款集全链路监控和用户行为分析（埋点）系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 - [Explv/Explv.github.io](https://github.com/Explv/Explv.github.io) - Explv's Map
 - [ElementUI/element-starter](https://github.com/ElementUI/element-starter) - A starter kit for Element UI generated by vue-cli
 - [aholstenson/miio](https://github.com/aholstenson/miio) - Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more
@@ -7573,6 +7572,7 @@
 - [denodev/typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
 - [rsocket/rsocket](https://github.com/rsocket/rsocket) - RSocket Protocol Definition
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [Blizzard/api-wow-docs](https://github.com/Blizzard/api-wow-docs) - Documentation for the World of Warcraft web APIs.
@@ -7990,7 +7990,7 @@
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
@@ -8345,7 +8345,6 @@
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [no5ix/realtime-server](https://github.com/no5ix/realtime-server) - A Realtime Dedicated Game Server.
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [nucleic/atom](https://github.com/nucleic/atom) - Memory efficient Python objects
 - [projecteru/redis-ctl](https://github.com/projecteru/redis-ctl) - A web application for Redis Cluster management
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
@@ -8413,7 +8412,6 @@
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
@@ -8758,6 +8756,7 @@
 - [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
@@ -8974,7 +8973,7 @@
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [cameron-goddard/Minesweeper-Desktop](https://github.com/cameron-goddard/Minesweeper-Desktop) - A modern Minesweeper app for the Mac
 - [satoshi0212/visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) - visionOS 30 days challenge.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
@@ -9025,7 +9024,7 @@
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - An open-source implementation of uTools, a high-performance, scalable application launcher and plugin platform | Supports macOS and Windows, 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
@@ -9161,7 +9160,7 @@
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -9499,7 +9498,7 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [JoshGlazebrook/socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.
-- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy (httpxy) middleware for connect, express, next.js and more
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
@@ -9735,6 +9734,7 @@
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [cevio/dubbo.ts](https://github.com/cevio/dubbo.ts) - 阿里巴巴 dubbo 协议的NodeJS版实现：一套完整的从Provider到consumer的解决方案，高性能支持高QPS。
 - [cyclegtx/cocos2dx-iog-state-sync](https://github.com/cyclegtx/cocos2dx-iog-state-sync) - 状态同步实现io游戏
 - [cyclegtx/cocos2dx-iog-lockstep-sync](https://github.com/cyclegtx/cocos2dx-iog-lockstep-sync) - CocosCreator 帧同步实现io游戏
