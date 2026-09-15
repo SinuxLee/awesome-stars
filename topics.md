@@ -2940,6 +2940,7 @@
 - [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
 - [dtrajko/MoravaEngine](https://github.com/dtrajko/MoravaEngine) - 2D/3D graphics engine written in C++ language. It currently supports the following graphics APIs: OpenGL 3.3+, Vulkan 1.2, DirectX 11. Its current purpose is to experiment with various CG concepts and
 - [Overload-Technologies/Overload](https://github.com/Overload-Technologies/Overload) - 3D game engine with lua scripting
+- [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++14 concurrent lock-free low-latency queue.
 - [i42output/neoGFX](https://github.com/i42output/neoGFX) - Cross-platform GPU-oriented C++ application/game framework
 - [abeimler/ecs_benchmark](https://github.com/abeimler/ecs_benchmark) - Benchmarks of common ECS (Entity-Component-System)-Frameworks in C++ (or C)
 - [yue/kizunapi](https://github.com/yue/kizunapi) - A set of header-only C++ classes for type conversion between C++ and JavaScript using Node-API.
@@ -3502,7 +3503,6 @@
 - [oleiade/lane](https://github.com/oleiade/lane) - Generic PriorityQueues, Queues, Stacks, and Deque data structures for Go
 - [srdja/Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures for the C language.
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
-- [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++14 concurrent lock-free low-latency queue.
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [hutusi/rethink-c](https://github.com/hutusi/rethink-c) - A reuseable codebase for C Programming Language.
@@ -6283,7 +6283,7 @@
 - [vadv/gopher-lua-libs](https://github.com/vadv/gopher-lua-libs) - Libs for gopher lua
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
 - [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
-- [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+- [nearthink/b0pass](https://github.com/nearthink/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [wspl/go-quickjs](https://github.com/wspl/go-quickjs) - QuickJS bindings for Go
 - [jjeffcaii/reactor-go](https://github.com/jjeffcaii/reactor-go) - A golang implementation for reactive-streams.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
@@ -7252,7 +7252,7 @@
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
-- [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+- [nearthink/b0pass](https://github.com/nearthink/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [wspl/go-quickjs](https://github.com/wspl/go-quickjs) - QuickJS bindings for Go
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
@@ -9686,7 +9686,7 @@
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [facil-io/cstl](https://github.com/facil-io/cstl) - facil.io C STL - a Server Toolbox Library for C, including JSON processing, hash maps, dynamic arrays, binary strings and more.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - THE fastest alternative JSON parser for Go that does not require schema
-- [idealvin/coost](https://github.com/idealvin/coost) - A tiny boost library in C++11.
+- [idealvin/coost](https://github.com/idealvin/coost) - A minimalist Swiss Army knife for C++.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [davyxu/tabtoy](https://github.com/davyxu/tabtoy) - 高性能表格数据导出器
@@ -10536,7 +10536,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [silence717/taro-designer](https://github.com/silence717/taro-designer) - 基于React开发可视化拖拽，页面搭建，使用tarojs自带组件库，生成源码生成。主要取tarojs组件库支持的 H5和微信小程序的交集进行属性编辑。
@@ -10595,7 +10595,7 @@
 - [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic Redbean-based Lua web framework in one file.
 - [pkulchenko/ZeroBranePackage](https://github.com/pkulchenko/ZeroBranePackage) - Packages for ZeroBrane Studio (https://studio.zerobrane.com)
 - [jashking/Bluelua](https://github.com/jashking/Bluelua) - A lightweight ue4 lua framework
-- [esrrhs/lua-family-bucket](https://github.com/esrrhs/lua-family-bucket) - Lua全家桶，命令行调试、性能分析、代码覆盖率等. Lua family bucket, command line debugging, performance analysis, code coverage
+- [esrrhs/lua-family-bucket](https://github.com/esrrhs/lua-family-bucket) - 精选 Lua 开源工具链全家桶 / A curated collection of essential Lua tools and libraries
 - [jiangzheng1986/LuaPerfect](https://github.com/jiangzheng1986/LuaPerfect) - A pure C++ Lua IDE project, aimed to be the fastest and lightest Lua IDE in the world.
 - [iqiyi/lua-resty-couchbase](https://github.com/iqiyi/lua-resty-couchbase) - Lua couchbase client driver for the ngx_lua based on the cosocket API / 使用cosocket纯lua实现的couchbase的client，已经在爱奇艺重要的服务播放服务稳定运行5年多
 - [chai2010/glua-strings](https://github.com/chai2010/glua-strings) - Go strings package for gopher-lua
@@ -10605,7 +10605,7 @@
 - [synodriver/lua-huffman](https://github.com/synodriver/lua-huffman) - huffman encode and decode for lua
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
-- [esrrhs/pLua](https://github.com/esrrhs/pLua) - Lua 性能分析工具 Lua profiler tool like gperftools
+- [esrrhs/pLua](https://github.com/esrrhs/pLua) - A lightweight, sampling-based CPU and memory profiler for Lua with FlameGraph and pprof support.
 - [alexeyco/binder](https://github.com/alexeyco/binder) - High level go to Lua binder. Write less, do more.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [PaulBernier/castl](https://github.com/PaulBernier/castl) - JavaScript to Lua compiler with runtime library.
@@ -10714,7 +10714,7 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [EtherProject/EtherEngine](https://github.com/EtherProject/EtherEngine) - 简明易用的 Lua 跨平台游戏接口
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
-- [esrrhs/dLua](https://github.com/esrrhs/dLua) - 类似gdb的lua调试器。Lua debugger like gdb
+- [esrrhs/dLua](https://github.com/esrrhs/dLua) - A high-performance, non-intrusive GDB-like dynamic debugger for Lua on Linux.
 - [erikdubbelboer/redis-lua-scaling-bloom-filter](https://github.com/erikdubbelboer/redis-lua-scaling-bloom-filter) - LUA Redis scripts for a scaling bloom filter
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
@@ -11828,7 +11828,6 @@
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -16977,7 +16976,7 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -17323,6 +17322,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
@@ -18738,7 +18738,7 @@
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) - 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
