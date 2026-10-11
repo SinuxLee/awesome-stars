@@ -1210,7 +1210,6 @@
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [Demigiant/dotween](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 - [crashkonijn/GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity
-- [GameFrameX/GameFrameX](https://github.com/GameFrameX/GameFrameX) - An open-source toolbox that takes a game all the way "from idea → built → live" — Unity/Godot/Cocos/Laya clients + one .NET server. | 开源游戏全流程工具箱：Unity/Godot/Cocos/Laya 客户端 + .NET 服务器，从想法到上线一站搞定。
 - [764424567/Game_Parkour](https://github.com/764424567/Game_Parkour) - Unity开发跑酷游戏
 - [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
 - [Mukarillo/UnityTetris](https://github.com/Mukarillo/UnityTetris) - Tetris clone written in C# and using Unity engine to render.
@@ -2567,7 +2566,7 @@
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理 Study the principles of cheat design from scratch
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4059 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4073 LeetCode Problems (Weekly Update)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [CopernicaMarketingSoftware/AMQP-CPP](https://github.com/CopernicaMarketingSoftware/AMQP-CPP) - C++ library for asynchronous non-blocking communication with RabbitMQ
 - [infinit/elle](https://github.com/infinit/elle) - The Elle coroutine-based asynchronous C++ development framework.
@@ -3315,7 +3314,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
 - [lxzan/gws](https://github.com/lxzan/gws) - simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket. keywords: ws, proxy, chat, go, golang...
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [bytedance/mockey](https://github.com/bytedance/mockey) - A simple and easy-to-use Go mocking library derived from ByteDance's internal best practices
@@ -4586,7 +4585,7 @@
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [nbio/httpcontext](https://github.com/nbio/httpcontext) - Flexible per-request contexts for vanilla Go http.Handlers.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -4603,7 +4602,7 @@
 - [axetroy/gin-uploader](https://github.com/axetroy/gin-uploader) - Gin 框架的文件上传组件
 - [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - GoCQL Driver for Apache Cassandra®
 - [xiuno/dbx](https://github.com/xiuno/dbx) - A database library for MySQL/SQLite/Cassandra/Scylladb by golang.
-- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   Demo： https://vue.go-admin.pro  
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - go-admin is a Gin + Vue starter kit for admin applications, supporting Element UI, Arco Design, and Ant Design. Features include multi-tenancy, user management, JWT authentication, RBAC, code generati
 - [hantmac/Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -5774,8 +5773,9 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at https://wekan.fi/commercial-support/ only. Translation PRs to imports/i18n/data/en.
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -5788,6 +5788,7 @@
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+- [GameFrameX/GameFrameX](https://github.com/GameFrameX/GameFrameX) - An open-source toolbox that takes a game all the way "from idea → built → live" — Unity/Godot/Cocos/Laya clients + one .NET server. | 开源游戏全流程工具箱：Unity/Godot/Cocos/Laya 客户端 + .NET 服务器，从想法到上线一站搞定。
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!
 - [x-extends/xe-utils](https://github.com/x-extends/xe-utils) - javascript 函数库、工具类
 - [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient.
@@ -6705,7 +6706,7 @@
 - [didi/chameleon](https://github.com/didi/chameleon) - 🦎 一套代码运行多端，一端所见即多端所见
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
 - [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao) - 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -7796,7 +7797,7 @@
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3-中文后训练版
@@ -7955,7 +7956,7 @@
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. UC & CDP modes bypass bot-detection and handle CAPTCHAs. Includes a Stealth mode for Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Framework for Browser Automation, Web Scraping, and Testing. CDP Mode is undetectable to anti-bot systems and adds stealth to stock Playwright.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -9118,7 +9119,6 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 Uno
 - [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
